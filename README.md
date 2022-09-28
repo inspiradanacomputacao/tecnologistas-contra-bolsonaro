@@ -15,7 +15,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **5)** Aumento da remuneração das bolsas de estudo de iniciação científica, mestrado e doutorado, que atualmente tem seu valor altamente defasado; E reconhecimento de pesquisadores enquanto trabalhadores para possam ter acesso aos direitos trabalhistas;
 
-**6)** Estimulos e práticas governamentais que possam construir uma cultura de paz e um povo consciente da necessidade de combater crimes e discriminações relativas a raça, orientação sexual, gênero e socioeconômico; 
+**6)** Estimulos e práticas governamentais que possam construir uma cultura de paz e antifascista para um povo consciente da necessidade de combater crimes e discriminações relativas a raça, orientação sexual, gênero, política e socioeconômico; 
 
 **7)** Combate à violência por meio do acesso à educação, emprego, qualificação profissional, acesso cultural e lazer;
 
