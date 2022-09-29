@@ -63,3 +63,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Rodrigo Miranda - @eguadorodrigo
 - Daniel Lemos - @DanielOCL
 - Ramon Silveira Borges - @Kaysarion_
+- Ítalo Epifânio - @itepifanio
