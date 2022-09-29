@@ -31,39 +31,40 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **Assinam:**
 
-1. Coletivo InspirAda na Computação
-1. Lidiane Monteiro
-1. Shirleide da Silva
-1. Eduardo Cuducos
-1. Gustavo Carvalho
-1. Flávia Viana
-1. Bruno Rocha - @rochacbruno
-1. Rafael Gomes (a.k.a Gomex)
-1. Kevin Oliveira - @kvnol
-1. Kauan Amarante
-1. Cristóferson Bueno
-1. Felipe Carvalho
-1. Bolsonitro - @bolsonitro_btc
-1. Téo Calvo  - @TeoCalvo
-1. Odilon Junior - @odilhao
-1. Francílio Araújo
-1. Luiz Eamnoel da Silva
-1. Jeferson Fernando - @badtux_
-1. Lucas Teixeira - @lucasjct
-1. Daniel Romero - @infoslack
-1. Janio Melo
-1. Gabriel Lechenco - @Lechenco
-1. Luis Fernando Azevedo Dourado
-1. Thiago Aires - @ThiAires2
-1. Wellington Nascimento - @wellingtonjhn
-1. Pietro Del Corona - @pidelcorona
-1. Allan Silva
 1. Adriano Azevedo
-1. Mário Menezes
-1. Rodrigo Miranda - @eguadorodrigo
+1. Allan Silva
+1. Bolsonitro - @bolsonitro_btc
+1. Bruno Rocha - @rochacbruno
+1. Coletivo InspirAda na Computação
+1. Cristóferson Bueno
 1. Daniel Lemos - @DanielOCL
+1. Daniel Romero - @infoslack
+1. Eduardo Cuducos
+1. Felipe Carvalho
+1. Felipe Ribeiro - @feliper_dev
+1. Flávia Viana
+1. Francílio Araújo
+1. Gabriel Lechenco - @Lechenco
+1. Gustavo Carvalho
+1. Janio Melo
+1. Jeferson Fernando - @badtux_
+1. Kauan Amarante
+1. Kevin Oliveira - @kvnol
+1. Lidiane Monteiro
+1. Lucas Teixeira - @lucasjct
+1. Luis Fernando Azevedo Dourado
+1. Luiz Eamnoel da Silva
+1. Mário Menezes
+1. Odilon Junior - @odilhao
+1. Pietro Del Corona - @pidelcorona
+1. Rafael Gomes (a.k.a Gomex)
 1. Ramon Silveira Borges - @Kaysarion_
 1. Renan Tomazini
-1. Felipe Ribeiro - @feliper_dev
+1. Rodrigo Miranda - @eguadorodrigo
+1. Shirleide da Silva
+1. Thiago Aires - @ThiAires2
+1. Téo Calvo  - @TeoCalvo
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
+1. Wellington Nascimento - @wellingtonjhn
 1. Ítalo Epifânio - @itepifanio
+
