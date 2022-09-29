@@ -46,4 +46,20 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Bolsonitro - @bolsonitro_btc
 - Téo Calvo  - @TeoCalvo
 - Odilon Junior - @odilhao
+- Francílio Araújo
+- Luiz Eamnoel da Silva
+- Jeferson Fernando - @badtux_
+- Lucas Teixeira - @lucasjct
+- Daniel Romero - @infoslack
+- Janio Melo
+- Gabriel Lechenco - @Lechenco
+- Luis Fernando Azevedo Dourado
+- Thiago Aires - @ThiAires2
+- Wellington Nascimento - @wellingtonjhn
+- Pietro Del Corona - @pidelcorona
+- Allan Silva
+- Adriano Azevedo
+- Mário Menezes
+- Rodrigo Miranda - @eguadorodrigo
+- Daniel Lemos - @DanielOCL
 - Ramon Silveira Borges - @Kaysarion_
