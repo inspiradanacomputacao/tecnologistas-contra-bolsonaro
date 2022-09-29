@@ -39,4 +39,5 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Flávia Viana
 - Bruno Rocha - @rochacbruno
 - Rafael Gomes (a.k.a Gomex)
+- Kevin Oliveira - @kvnol
 - Kauan Amarante
