@@ -41,3 +41,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Rafael Gomes (a.k.a Gomex)
 - Kevin Oliveira - @kvnol
 - Kauan Amarante
+- Luiz Eamnoel da Silva
