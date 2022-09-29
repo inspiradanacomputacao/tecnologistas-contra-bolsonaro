@@ -47,3 +47,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Téo Calvo  - @TeoCalvo
 - Odilon Junior - @odilhao
 - Francílio Araújo
+- Luiz Eamnoel da Silva
