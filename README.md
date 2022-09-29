@@ -9,7 +9,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **2)** Combata os cortes de verbas em educação, saúde, ciência, tecnologia e inovação, que atingiram diretamente as universidades, escolas, hospitais e tratamentos de alta complexidade, enquanto o governo Bolsonaro gastava 21 milhões em cartão corporativo em apenas 2 anos, aumentava em R$ 25 milhões o gasto com publicidade e destinava 19,4 bilhões para orçamento secreto como arma eleitoral. 
 
-**3)** Invasta em qualificação tecnológica e científica da população para ocupar os postos de trabalho com alta demanda e desenvolvimento de tecnologia no Brasil de qualidade e com responsabilidade social, priorizando um desenvolvimento tecnológico ético, comprometido em combater desigualdade, notícias falsas e discriminação algorítmica; 
+**3)** Invista em qualificação tecnológica e científica da população para ocupar os postos de trabalho com alta demanda e desenvolvimento de tecnologia no Brasil de qualidade e com responsabilidade social, priorizando um desenvolvimento tecnológico ético, comprometido em combater desigualdade, notícias falsas e discriminação algorítmica; 
 
 **4)** Valorize e invista recursos públicos no desenvolvimento científico, tecnológico e remuneração adequada para pesquisadores e trabalhadores;
 
