@@ -41,4 +41,10 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Rafael Gomes (a.k.a Gomex)
 - Kevin Oliveira - @kvnol
 - Kauan Amarante
+- Cristóferson Bueno
+- Felipe Carvalho
+- Bolsonitro - @bolsonitro_btc
+- Téo Calvo  - @TeoCalvo
+- Odilon Junior - @odilhao
+- Francílio Araújo
 - Luiz Eamnoel da Silva
