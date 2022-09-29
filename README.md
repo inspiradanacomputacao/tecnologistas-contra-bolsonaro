@@ -50,3 +50,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Luiz Eamnoel da Silva
 - Jeferson Fernando @badtux_
 - Lucas Teixeira - lucasjct
+- Rodrigo Miranda - eguadorodrigo
