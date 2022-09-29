@@ -48,3 +48,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Odilon Junior - @odilhao
 - Francílio Araújo
 - Luiz Eamnoel da Silva
+- Jeferson Fernando @badtux_
