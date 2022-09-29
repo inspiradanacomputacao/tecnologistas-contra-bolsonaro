@@ -34,6 +34,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **Assinam:** 
 
+- Coletivo InspirAda na Computação
 - Lidiane Monteiro
 - Shirleide da Silva
 - 
