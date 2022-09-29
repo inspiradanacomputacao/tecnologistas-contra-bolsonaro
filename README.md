@@ -49,3 +49,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Francílio Araújo
 - Luiz Eamnoel da Silva
 - Jeferson Fernando @badtux_
+- Lucas Teixeira - lucasjct
