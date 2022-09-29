@@ -35,3 +35,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Lidiane Monteiro
 - Shirleide da Silva
 - Eduardo Cuducos
+- Flávia Viana
