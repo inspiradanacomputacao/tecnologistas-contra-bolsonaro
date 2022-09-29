@@ -33,6 +33,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 1. Adriano Azevedo
 1. Allan Silva
+1. Bolsonitro - @bolsonitro_btc
 1. Bruno Rocha - @rochacbruno
 1. Coletivo InspirAda na Computação
 1. Cristóferson Bueno
@@ -68,3 +69,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Ítalo Epifânio - @itepifanio
 1. Luander De Faria - @LuanderFarias
 1. Bruna de Oliveira - @heibabu
+1. Walaff Jhonatha Gomes Fernandes - @lncitador
