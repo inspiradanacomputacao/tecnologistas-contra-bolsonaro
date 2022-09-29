@@ -57,4 +57,6 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Thiago Aires - @ThiAires2
 - Wellington Nascimento - @wellingtonjhn
 - Pietro Del Corona - @pidelcorona
-
+- Allan Silva
+- Adriano Azevedo
+- Mário Menezes
