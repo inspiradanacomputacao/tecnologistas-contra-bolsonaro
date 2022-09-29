@@ -44,3 +44,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Cristóferson Bueno
 - Felipe Carvalho
 - Bolsonitro - @bolsonitro_btc
+- Téo Calvo  - @TeoCalvo
