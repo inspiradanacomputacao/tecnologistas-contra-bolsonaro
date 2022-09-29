@@ -69,3 +69,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Ítalo Epifânio - @itepifanio
 1. Luander De Faria - @LuanderFarias
 1. Bruna de Oliveira - @heibabu
+1. Fabrício Kneipp - @kneipp 
