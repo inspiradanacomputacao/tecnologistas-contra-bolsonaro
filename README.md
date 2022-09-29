@@ -61,3 +61,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Adriano Azevedo
 - Mário Menezes
 - Rodrigo Miranda - @eguadorodrigo
+- Daniel Lemos - @DanielOCL
