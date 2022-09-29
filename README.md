@@ -42,3 +42,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Kevin Oliveira - @kvnol
 - Kauan Amarante
 - Cristóferson Bueno
+- Felipe Carvalho
