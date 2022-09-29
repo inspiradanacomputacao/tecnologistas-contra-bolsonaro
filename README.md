@@ -43,7 +43,6 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Kauan Amarante
 - Cristóferson Bueno
 - Felipe Carvalho
-- Bolsonitro - @bolsonitro_btc
 - Téo Calvo  - @TeoCalvo
 - Odilon Junior - @odilhao
 - Francílio Araújo
@@ -62,4 +61,5 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Mário Menezes
 - Rodrigo Miranda - @eguadorodrigo
 - Daniel Lemos - @DanielOCL
+- Renan Tomazini
 - Ramon Silveira Borges - @Kaysarion_
