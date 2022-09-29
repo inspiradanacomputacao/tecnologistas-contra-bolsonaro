@@ -48,5 +48,13 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Odilon Junior - @odilhao
 - Francílio Araújo
 - Luiz Eamnoel da Silva
-- Jeferson Fernando @badtux_
-- Lucas Teixeira - lucasjct
+- Jeferson Fernando - @badtux_
+- Lucas Teixeira - @lucasjct
+- Daniel Romero - @infoslack
+- Janio Melo
+- Gabriel Lechenco - @Lechenco
+- Luis Fernando Azevedo Dourado
+- Thiago Aires - @ThiAires2
+- Wellington Nascimento - @wellingtonjhn
+- Pietro Del Corona - @pidelcorona
+
