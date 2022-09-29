@@ -64,3 +64,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Daniel Lemos - @DanielOCL
 1. Ramon Silveira Borges - @Kaysarion_
 1. Renan Tomazini
+1. Felipe Ribeiro - @feliper_dev
