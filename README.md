@@ -67,4 +67,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Wellington Nascimento - @wellingtonjhn
 1. Ítalo Epifânio - @itepifanio
-
+1. Luander De Faria - @LuanderFarias
