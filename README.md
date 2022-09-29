@@ -1,4 +1,4 @@
-# Tecnologistas contra Bolsonaro
+# Tecnologistas contra Bolsonaro      [[Quero assinar]](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro/wiki)                                    
 
 
 **Manifesto de Pessoas de Tecnologia contra Bolsonaro**
