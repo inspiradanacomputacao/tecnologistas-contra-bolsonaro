@@ -37,4 +37,5 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Eduardo Cuducos
 - Gustavo Carvalho
 - Flávia Viana
+- Bruno Rocha - @rochacbruno
 - Rafael Gomes (a.k.a Gomex)
