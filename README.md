@@ -46,4 +46,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Bolsonitro - @bolsonitro_btc
 - Téo Calvo  - @TeoCalvo
 - Odilon Junior - @odilhao
-- Francílio Araújo
+- Daniel Lemos - @DanielOCL
