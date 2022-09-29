@@ -60,3 +60,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Allan Silva
 - Adriano Azevedo
 - Mário Menezes
+- Felipe Ribeiro - @feliper_dev
