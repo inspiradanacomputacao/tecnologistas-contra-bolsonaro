@@ -36,3 +36,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 - Shirleide da Silva
 - Eduardo Cuducos
 - Gustavo Carvalho
+- Flávia Viana
