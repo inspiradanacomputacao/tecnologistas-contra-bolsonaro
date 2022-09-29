@@ -35,7 +35,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 **Assinam:** 
 
 - Lidiane Monteiro
-- 
+- Shirleide da Silva
 - 
 
 
