@@ -45,6 +45,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Eduardo Cuducos
 1. Felipe Carvalho
 1. Felipe Ribeiro - @feliper_dev
+1. Filipe Fernandes - @ocefpaf
 1. Flávia Viana
 1. Francílio Araújo
 1. Gabriel Lechenco - @Lechenco
