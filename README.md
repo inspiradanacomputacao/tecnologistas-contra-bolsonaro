@@ -200,6 +200,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Matheus Grandi - @grandimatheus
 1. Diego Neves - @diegoaceneves
+1. Victor Wildner - @vcwild
 1. Ivan Maia - @ivanmaia
 1. Paulo Bortolotti - @phbpx
 1. Pedro Rogério - @pinceladasdaweb
