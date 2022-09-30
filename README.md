@@ -135,6 +135,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Luiz Eamnoel da Silva
 1. Luiz Felipe Amadeu
 1. Luiz Gustavo Ferraz Aoqui - @lgfa29
+1. Marcelo Drudi Miranda - @drudimm
 1. Marcelo Palladino - @mfpalladino
 1. Marcio Hiroyuki Miyamoto  - @decepciloper
 1. Marco Antonio Martins Junior - @somatorio
