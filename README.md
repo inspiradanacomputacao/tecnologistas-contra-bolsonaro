@@ -57,6 +57,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Diego Neves - @diegoaceneves
 1. Diogo Murta - @diogomurta
 1. Eduardo Cuducos
+1. Elias Soares - @eliassoares
 1. Evelyn Schmitz - @ikiba
 1. Everton Silva
 1. Fabrício Kneipp - @kneipp
