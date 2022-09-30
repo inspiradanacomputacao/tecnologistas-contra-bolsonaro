@@ -43,6 +43,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Cristóferson Bueno
 1. Daniel Lemos - @DanielOCL
 1. Daniel Romero - @infoslack
+1. Diego Costa - @diegocosta
 1. Eduardo Cuducos
 1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
