@@ -60,6 +60,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Janio Melo
 1. Jeferson Fernando - @badtux_
 1. João Paulo Marquesini - @joaopmarquesini
+1. João Freire - @p0ssuidao
 1. Júnior Moreira de Souza
 1. Kauan Amarante
 1. Kevin Oliveira - @kvnol
