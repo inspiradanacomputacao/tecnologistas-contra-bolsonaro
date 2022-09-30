@@ -1,4 +1,5 @@
 # Tecnologistas contra Bolsonaro      [[Quero assinar]](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro/wiki)
+
 **Manifesto de Pessoas de Tecnologia contra Bolsonaro**
 
 Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inovação, abaixo assinados, vimos ao público em geral e às comunidades nos posicionarmos sobre a eleição presidencial de 2 de outubro de 2022 afirmando nosso desejo e compromisso em derrotar Bolsonaro para que o povo brasileiro tenha melhores condições sociais, econômicas e políticas de forjar um Brasil que:
@@ -40,7 +41,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Bruno Rocha - @rochacbruno
 1. Coletivo InspirAda na Computação
 1. Cristóferson Bueno
-1. Daniel Lemos - @DanielOCL 
+1. Daniel Lemos - @DanielOCL
 1. Daniel Romero - @infoslack
 1. Eduardo Cuducos
 1. Felipe Carvalho
@@ -60,7 +61,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Lidiane Monteiro
 1. Luander De Faria - @LuanderFarias
 1. Lucas Teixeira - @lucasjct
-1. Luis Fernando Azevedo Dourado 
+1. Luis Fernando Azevedo Dourado
 1. Luiz Eamnoel da Silva
 1. Mário Menezes
 1. Odilon Junior - @odilhao
@@ -71,7 +72,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Raul Jansma Paes - @Rauljansma
 1. Renan Tomazini
 1. Rodrigo Miranda - @eguadorodrigo
-1. Silas Dias 
+1. Silas Dias
 1. Shirleide da Silva
 1. Thiago Aires - @ThiAires2
 1. Téo Calvo  - @TeoCalvo
@@ -80,8 +81,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wellington Nascimento - @wellingtonjhn
 1. Guilherme Jardim - @oguiljardim
 1. Renato Oliveira - @_renatooliveira
-
-
-
-
-
+1. Zaíra Gonçalves - @ZaairaaG
