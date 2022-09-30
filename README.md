@@ -212,3 +212,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
 1. Bruno Gonçalves de Barros - @bbwithpointers
+1. Marco Vinicius Soares Dall'Alba @vinisdl
