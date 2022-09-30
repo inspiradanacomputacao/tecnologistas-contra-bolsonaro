@@ -38,6 +38,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Blabos de Blebe @blabos
 1. Bruna de Oliveira - @heibabu
 1. Bruno Rocha - @rochacbruno
+1. Caio Delgado - @caiodelgadonew
 1. Coletivo InspirAda na Computação
 1. Cristóferson Bueno
 1. Daniel Lemos - @DanielOCL
@@ -51,13 +52,17 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Flávia Viana
 1. Francílio Araújo
 1. Gabriel Lechenco - @Lechenco
+1. Geraldo Massahud 
 1. Giovanni Bassi - @giovannibassi
 1. Gustavo Carvalho
+1. Gustavo Henrique Ribeiro Dias - @guribeiro
 1. Igor Oliveira - @igorolivei
 1. Ítalo Epifânio - @itepifanio
 1. Janio Melo
+1. Jean Carlos Izepon - @izepon
 1. Jeferson Fernando - @badtux_
 1. João Paulo Marquesini - @joaopmarquesini
+1. João Freire - @p0ssuidao
 1. Júnior Moreira de Souza
 1. Kauan Amarante
 1. Kevin Oliveira - @kvnol
@@ -67,6 +72,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Lucas Teixeira - @lucasjct
 1. Luis Fernando Azevedo Dourado
 1. Luiz Eamnoel da Silva
+1. Luiz Gustavo Ferraz Aoqui - @lgfa29
 1. Marcio Hiroyuki Miyamoto  - @decepciloper
 1. Mário Menezes
 1. Mateus Caruccio - @caruccio
@@ -107,7 +113,10 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. João Pedro Limão - @johnazedo
 1. Diego Neves - @diegoaceneves
 1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
+1. Otavio Carneiro - @ocarneiro (ooocarneiro no twitter)
+1. André "decko" de Brito - @decko
 1. Janil Garcia - @janilcgarcia
 1. Augusto Custódio - @augustocustodio - @gutocodes (tt)
 1. João Rafael Freitas Bonilha - @rafaelbonilha
 1. Guilherme Magno - @guilherme.mprata
+1. Marco Antonio Martins Junior - @somatorio
