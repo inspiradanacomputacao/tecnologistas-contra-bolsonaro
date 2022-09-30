@@ -114,6 +114,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Matheus Grandi - @grandimatheus
 1. João Pedro Limão - @johnazedo
 1. Diego Neves - @diegoaceneves
+1. André P. Santos - @ztzandre
 1. Ivanelson Nunes - @ivanelsonnunes
 1. Weverton Silveira Lima
 1. Felipe de Morais(FeliPython) - @felipedemorais_
