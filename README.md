@@ -93,6 +93,6 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Matheus Grandi - @grandimatheus
 1. Diego Neves - @diegoaceneves
-1. Felipe de Moras(FeliPython) - @felipedemorais_
+1. Felipe de Morais(FeliPython) - @felipedemorais_
 1. AfroPython - @AfroPython
 
