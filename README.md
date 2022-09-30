@@ -31,6 +31,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **Assinam:**
 
+
 1. Adriano Azevedo
 1. Allan Silva
 1. Antonio Arles @aarles
@@ -50,6 +51,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Gabriel Lechenco - @Lechenco
 1. Giovanni Bassi - @giovannibassi
 1. Gustavo Carvalho
+1. Igor Oliveira - @igorolivei
 1. Ítalo Epifânio - @itepifanio
 1. Janio Melo
 1. Jeferson Fernando - @badtux_
