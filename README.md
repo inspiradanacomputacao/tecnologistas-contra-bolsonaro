@@ -91,6 +91,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Gabriel Lechenco - @Lechenco
 1. Gabriel Paula - @gabriellmpaula
 1. Geraldo Massahud
+1. Getúlio Vinícius Teixeira da Silva @getuliovinits
 1. Giovanni Bassi - @giovannibassi
 1. Gizele Veiga - gizaa_veiga
 1. Gregory Canto - @gregorycanto
