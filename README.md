@@ -93,3 +93,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Matheus Grandi - @grandimatheus
 1. Diego Neves - @diegoaceneves
 1. João Rafael Freitas Bonilha - @rafaelbonilha
+1. Guilherme Magno - @guilherme.mprata
