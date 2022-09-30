@@ -47,6 +47,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Blabos de Blebe @blabos
 1. Breno Araripe - @meuamigobira
 1. Bruna de Oliveira - @heibabu
+1. Bruno Gonçalves de Barros - @bbwithpointers
 1. Bruno Lopes Alcantara Batista - @brunolopesjn
 1. Bruno Rocha - @rochacbruno
 1. Caio Delgado - @caiodelgadonew
@@ -152,6 +153,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Marcelo Palladino - @mfpalladino
 1. Marcio Hiroyuki Miyamoto - @decepciloper
 1. Marco Antonio Martins Junior - @somatorio
+1. Marco Vinicius Soares Dall'Alba @vinisdl
 1. Mário Menezes
 1. Mário Sérgio Oliveira de Queiroz
 1. Mateus Caruccio - @caruccio
@@ -174,6 +176,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Ramon Silveira Borges - @Kaysarion_
 1. Raphael Rodrigues Nogueira
 1. Raul Jansma Paes - @Rauljansma
+1. Raysa Dutra - @hi_hi_ray
 1. Reinaldo Antonio Camargo Rauch - @reinaldorauch
 1. Reinaldo Coelho (a.k.a Foca) - @reinaldocoelho
 1. Renan Tomazini
@@ -212,6 +215,3 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wendell Borges - @perlporter
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
-1. Bruno Gonçalves de Barros - @bbwithpointers
-1. Marco Vinicius Soares Dall'Alba @vinisdl
-1. Raysa Dutra - @hi_hi_ray
