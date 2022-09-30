@@ -102,6 +102,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. João Rafael Freitas Bonilha - @rafaelbonilha
 1. José Maria Jr
 1. Josiel Santos - @JosielSantosDev
+1. Juliana Trevine - @trevineju
 1. Júnior Moreira de Souza
 1. Kauan Amarante
 1. Kevin Oliveira - @kvnol
