@@ -51,6 +51,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Flávia Viana
 1. Francílio Araújo
 1. Gabriel Lechenco - @Lechenco
+1. Geraldo Massahud 
 1. Giovanni Bassi - @giovannibassi
 1. Gustavo Carvalho
 1. Igor Oliveira - @igorolivei
