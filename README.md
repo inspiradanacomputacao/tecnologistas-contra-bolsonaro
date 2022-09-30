@@ -44,6 +44,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Daniel Lemos - @DanielOCL 
 1. Daniel Romero - @infoslack
 1. Eduardo Cuducos
+1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
 1. Felipe Ribeiro - @feliper_dev
 1. Flávia Viana
