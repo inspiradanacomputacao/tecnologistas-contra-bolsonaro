@@ -87,6 +87,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
+1. Reinaldo Antonio Camargo Rauch - @reinaldorauch
 1. João Antônio Andrade Satana - @joaoandrades
 1. Breno Araripe - @meuamigobira
 1. Cristina Mantovani - @crismantovani
