@@ -46,6 +46,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
 1. Felipe Ribeiro - @feliper_dev
+1. Filipe Fernandes - @ocefpaf
 1. Felix Carvalho - @felixoakz
 1. Flávia Viana
 1. Francílio Araújo
