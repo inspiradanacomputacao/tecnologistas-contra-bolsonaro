@@ -75,6 +75,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Shirleide da Silva
 1. Thiago Aires - @ThiAires2
 1. Téo Calvo  - @TeoCalvo
+1. Vinicius Teixeira - @vinicius0026
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
