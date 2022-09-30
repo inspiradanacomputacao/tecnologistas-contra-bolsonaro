@@ -71,6 +71,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Gabriel Lechenco - @Lechenco
 1. Geraldo Massahud
 1. Giovanni Bassi - @giovannibassi
+1. Gregory Canto - @gregorycanto
 1. Guilherme Jardim - @oguiljardim
 1. Guilherme Magno - @guilherme.mprata
 1. Guilherme Victor - @guivictorr
