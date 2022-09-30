@@ -112,6 +112,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Matheus Grandi - @grandimatheus
 1. João Pedro Limão - @johnazedo
 1. Diego Neves - @diegoaceneves
+1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
 1. Otavio Carneiro - @ocarneiro (ooocarneiro no twitter)
 1. André "decko" de Brito - @decko
 1. Janil Garcia - @janilcgarcia
