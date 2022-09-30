@@ -69,6 +69,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Luiz Eamnoel da Silva
 1. Marcio Hiroyuki Miyamoto  - @decepciloper
 1. Mário Menezes
+1. Mateus Caruccio - @caruccio
 1. Odilon Junior - @odilhao
 1. Pietro Del Corona - @pidelcorona
 1. Rafael Gomes (a.k.a Gomex)
