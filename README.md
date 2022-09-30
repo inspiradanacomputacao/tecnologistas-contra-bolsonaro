@@ -200,6 +200,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Matheus Grandi - @grandimatheus
 1. Diego Neves - @diegoaceneves
+1. Luiz Felipe Amadeu - @luiiz_amadeeu (ig)
 1. André Euclides Alves - @alvesa
 1. Jéssica Souza - @whatever_jess
 1. Fabiano Santos Florentino - @fabianosanflor
