@@ -31,7 +31,6 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **Assinam:**
 
-
 1. Adriano Azevedo
 1. Allan Silva
 1. Antonio Arles @aarles
@@ -88,9 +87,15 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
 1. Diogo Murta - @diogomurta
+1. Mário Sérgio Oliveira de Queiroz
+1. Ademir Ferreira - @ademirferreira
+1. Guilmour Rossi - @guilmour
+1. Evelyn Schmitz - @ikiba
 1. William Lino Oliveira - @willonil
 1. Guilherme Jardim - @oguiljardim
 1. Renato Oliveira - @_renatooliveira
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Matheus Grandi - @grandimatheus
 1. Diego Neves - @diegoaceneves
+1. João Rafael Freitas Bonilha - @rafaelbonilha
+1. Guilherme Magno - @guilherme.mprata
