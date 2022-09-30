@@ -79,6 +79,9 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
 1. Guilherme Jardim - @oguiljardim
+1. Renato Oliveira - @_renatooliveira
+
+
 
 
 
