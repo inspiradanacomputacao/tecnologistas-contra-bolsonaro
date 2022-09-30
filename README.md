@@ -31,6 +31,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **Assinam:**
 
+
 1. Adriano Azevedo
 1. Allan Silva
 1. Antonio Arles @aarles
@@ -43,25 +44,32 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Daniel Lemos - @DanielOCL
 1. Daniel Romero - @infoslack
 1. Eduardo Cuducos
+1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
 1. Felipe Ribeiro - @feliper_dev
+1. Felix Carvalho - @felixoakz
 1. Flávia Viana
 1. Francílio Araújo
 1. Gabriel Lechenco - @Lechenco
 1. Giovanni Bassi - @giovannibassi
 1. Gustavo Carvalho
+1. Igor Oliveira - @igorolivei
 1. Ítalo Epifânio - @itepifanio
 1. Janio Melo
 1. Jeferson Fernando - @badtux_
+1. João Paulo Marquesini - @joaopmarquesini
 1. Júnior Moreira de Souza
 1. Kauan Amarante
 1. Kevin Oliveira - @kvnol
+1. Leo Cavalcante - @leocavalcante
 1. Lidiane Monteiro
 1. Luander De Faria - @LuanderFarias
 1. Lucas Teixeira - @lucasjct
 1. Luis Fernando Azevedo Dourado
 1. Luiz Eamnoel da Silva
+1. Marcio Hiroyuki Miyamoto  - @decepciloper
 1. Mário Menezes
+1. Mateus Caruccio - @caruccio
 1. Odilon Junior - @odilhao
 1. Pietro Del Corona - @pidelcorona
 1. Rafael Gomes (a.k.a Gomex)
@@ -72,9 +80,17 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Rodrigo Miranda - @eguadorodrigo
 1. Silas Dias
 1. Shirleide da Silva
+1. Tainá Rocha - @Tai_Rocha_
 1. Thiago Aires - @ThiAires2
+1. Thiago Paiva - @paiva_thiago
 1. Téo Calvo  - @TeoCalvo
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
 1. Diogo Murta - @diogomurta
+1. William Lino Oliveira - @willonil
+1. Guilherme Jardim - @oguiljardim
+1. Renato Oliveira - @_renatooliveira
+1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
+1. Matheus Grandi - @grandimatheus
+1. Diego Neves - @diegoaceneves
