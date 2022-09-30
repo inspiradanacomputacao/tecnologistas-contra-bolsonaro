@@ -39,6 +39,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Allan Silva
 1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
 1. André "decko" de Brito - @decko
+1. André Euclides Alves - @alvesa
 1. André P. Santos - @ztzandre
 1. Angela De Jesus
 1. Antonio Arles @aarles
@@ -49,7 +50,9 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Bruno Lopes Alcantara Batista - @brunolopesjn
 1. Bruno Rocha - @rochacbruno
 1. Caio Delgado - @caiodelgadonew
+1. Carlos Barros - @ocarlosbarros
 1. Carol Santos - @carolsvntos
+1. Cauê Baasch de Souza - @cauebs
 1. Christian Corrales - @christcorrales
 1. Christiano Anderson
 1. Christiano Anderson - @dump
@@ -63,7 +66,6 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Daniel Lemos - @DanielOCL
 1. Daniel Romero - @infoslack
 1. Diego Costa - @diegocosta
-1. Diego Costa - @diegocosta
 1. Diego Neves - @diegoaceneves
 1. Diogo Murta - @diogomurta
 1. Douglas Urbano - @douglasurbano
@@ -72,6 +74,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Eliel França
 1. Evelyn Schmitz - @ikiba
 1. Everton Silva
+1. Fabiano Santos Florentino - @fabianosanflor
 1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
 1. Felipe Cecagno - @fcecagno
@@ -83,30 +86,35 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Francílio Araújo
 1. Gabriel Barbosa - @ollemg
+1. Gabriel Galdino - @gabogaldino
 1. Gabriel Lechenco - @Lechenco
 1. Gabriel Paula - @gabriellmpaula
 1. Geraldo Massahud
 1. Giovanni Bassi - @giovannibassi
 1. Gizele Veiga - gizaa_veiga
+1. Gregory Canto - @gregorycanto
 1. Guilherme Jardim - @oguiljardim
 1. Guilherme Magno - @guilherme.mprata
 1. Guilherme Maluf Balzana - @guimaluf
 1. Guilherme Victor - @guivictorr
 1. Guilmour Rossi - @guilmour
+1. Gus Ballard - @sillero
 1. Gustavo Carvalho
 1. Gustavo Henrique Ribeiro Dias - @guribeiro
-1. Gustavo Henrique Ribeiro Dias - @guribeiro
+1. Halley Teixeira Rios - @HalleyRios
 1. Henrique Machado Broseghini - @BrosHenrique
+1. Iago Bruno - @iagobruno
 1. Igor Oliveira - @igorolivei
 1. Ike Banto - @ikebanto
 1. Ítalo Epifânio - @itepifanio
+1. Ivan Maia - @ivanmaia
 1. Ivanelson Nunes - @ivanelsonnunes
 1. Janaina Costa
 1. Janil Garcia - @janilcgarcia
 1. Janio Melo
-1. Jean Carlos Izepon
 1. Jean Carlos Izepon - @izepon
 1. Jeferson Fernando - @badtux_
+1. Jéssica Souza - @whatever_jess
 1. João Antônio Andrade Satana - @joaoandrades
 1. João Brito - @juniorjbn
 1. João Ciocca - @JohnnyCiocca
@@ -115,7 +123,6 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. João Paulo Marquesini - @joaopmarquesini
 1. João Pedro Limão - @johnazedo
 1. João Rafael Freitas Bonilha - @rafaelbonilha
-1. José Maria Jr
 1. José Maria Jr
 1. Josiel Santos - @JosielSantosDev
 1. Juliana Barros Lima - @tiidadavena
@@ -137,10 +144,11 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Luis Fernando Azevedo Dourado
 1. Luiz Eamnoel da Silva
 1. Luiz Felipe Amadeu
+1. Luiz Felipe Amadeu - @luiiz_amadeeu (ig)
 1. Luiz Gustavo Ferraz Aoqui - @lgfa29
 1. Marcelo Drudi Miranda - @drudimm
 1. Marcelo Palladino - @mfpalladino
-1. Marcio Hiroyuki Miyamoto  - @decepciloper
+1. Marcio Hiroyuki Miyamoto - @decepciloper
 1. Marco Antonio Martins Junior - @somatorio
 1. Mário Menezes
 1. Mário Sérgio Oliveira de Queiroz
@@ -153,9 +161,10 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Odilon Junior - @odilhao
 1. Otavio Carneiro - @ocarneiro
 1. Otávio Cartaxo - @_ocartaxo
-1. Otávio Cartaxo - @_ocartaxo
+1. Paulo Bortolotti - @phbpx
 1. Paulo Gonçalves - @paulorgoncalves
 1. Pedro Henrique Lopes - @Pherlsz
+1. Pedro Rogério - @pinceladasdaweb
 1. Pietro Del Corona - @pidelcorona
 1. Rafael Gomes (a.k.a Gomex)
 1. Rafael Hayashi - @hayashirafa
@@ -177,7 +186,9 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Silas Fernandes - @ssilasfernandess
 1. Tainá Rocha - @Tai_Rocha_
 1. Tarso Queiroz
-1. Téo Calvo  - @TeoCalvo
+1. Tatiana Vitorello - @sunknines
+1. Téo Calvo - @TeoCalvo
+1. Thallys de Freitas - @thallysfs
 1. Thiago Aires - @ThiAires2
 1. Thiago Fernando - @thiiagofernando
 1. Thiago Paiva - @paiva_thiago
@@ -188,11 +199,13 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Vicente Eduardo Ribeiro Marçal - @riverfount
 1. Victor Emanuel Perticarrari Osório - @vepo
 1. Victor Ricardo - @vicrlda
+1. Victor Wildner - @vcwild
 1. Vinicius Teixeira - @vinicius0026
 1. Vitor Xisto - @vxisto
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Walaff Jhonatha Gomes Fernandes - @lncitador
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
+1. Wendell Borges - @perlporter
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
