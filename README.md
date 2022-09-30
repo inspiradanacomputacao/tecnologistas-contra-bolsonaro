@@ -179,6 +179,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Ricardo Katz - @rikatz
 1. Rivaldo Oliveira - @RiivaldoJR
 1. Rodrigo Miranda - @eguadorodrigo
+1. Rodrigo Nascentes - @ronascentes
 1. Samuel Estrella - @techrastabr
 1. Sergio Giraldo
 1. Shirleide da Silva
