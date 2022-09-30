@@ -75,6 +75,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Raira Oliveira - @risoilustra
 1. Ramon Silveira Borges - @Kaysarion_
 1. Raul Jansma Paes - @Rauljansma
+1. Reinaldo Coelho (a.k.a Foca) - @reinaldocoelho
 1. Renan Tomazini
 1. Rodrigo Miranda - @eguadorodrigo
 1. Silas Dias
@@ -102,3 +103,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Diego Neves - @diegoaceneves
 1. João Rafael Freitas Bonilha - @rafaelbonilha
 1. Guilherme Magno - @guilherme.mprata
+
