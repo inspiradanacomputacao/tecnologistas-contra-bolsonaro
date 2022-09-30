@@ -56,6 +56,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Júnior Moreira de Souza
 1. Kauan Amarante
 1. Kevin Oliveira - @kvnol
+1. Leo Cavalcante - @leocavalcante
 1. Lidiane Monteiro
 1. Luander De Faria - @LuanderFarias
 1. Lucas Teixeira - @lucasjct
