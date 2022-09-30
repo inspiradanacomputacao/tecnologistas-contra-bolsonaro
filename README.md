@@ -55,6 +55,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Igor Oliveira - @igorolivei
 1. Ítalo Epifânio - @itepifanio
 1. Janio Melo
+1. Jean Carlos Izepon - @izepon
 1. Jeferson Fernando - @badtux_
 1. João Paulo Marquesini - @joaopmarquesini
 1. Júnior Moreira de Souza
@@ -88,4 +89,3 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Matheus Grandi - @grandimatheus
 1. Diego Neves - @diegoaceneves
-1. Jean Carlos Izepon - @izepon
