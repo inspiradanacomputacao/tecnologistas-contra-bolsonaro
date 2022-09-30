@@ -39,6 +39,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Blabos de Blebe @blabos
 1. Bruna de Oliveira - @heibabu
 1. Bruno Rocha - @rochacbruno
+1. Christiano Anderson - @dump
 1. Coletivo InspirAda na Computação
 1. Cristóferson Bueno
 1. Daniel Lemos - @DanielOCL 
