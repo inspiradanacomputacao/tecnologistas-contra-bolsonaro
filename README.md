@@ -139,3 +139,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wellington Nascimento - @wellingtonjhn
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
+1. Thallys de Freitas @thallysfs
