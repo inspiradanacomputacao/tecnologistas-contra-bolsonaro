@@ -50,6 +50,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Bruno Rocha - @rochacbruno
 1. Caio Delgado - @caiodelgadonew
 1. Carol Santos - @carolsvntos
+1. Christian Corrales - @christcorrales
 1. Christiano Anderson
 1. Christiano Anderson - @dump
 1. Cleyson Lima - @cleysonph
