@@ -53,6 +53,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Gabriel Lechenco - @Lechenco
 1. Giovanni Bassi - @giovannibassi
 1. Gustavo Carvalho
+1. Gustavo Henrique Ribeiro Dias - @guribeiro
 1. Igor Oliveira - @igorolivei
 1. Ítalo Epifânio - @itepifanio
 1. Janio Melo
