@@ -80,8 +80,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wellington Nascimento - @wellingtonjhn
 1. Guilherme Jardim - @oguiljardim
 1. Renato Oliveira - @_renatooliveira
-
-
-
-
-
+1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
