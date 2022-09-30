@@ -116,6 +116,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Matheus Grandi - @grandimatheus
 1. João Pedro Limão - @johnazedo
 1. Diego Neves - @diegoaceneves
+1. Vicente Eduardo Ribeiro Marçal - @riverfount
 1. Paulo Gonçalves - @paulorgoncalves
 1. Cristiano Santos de Oliveira - @cristianounix
 1. Guilherme Victor - @guivictorr
