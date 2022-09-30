@@ -195,6 +195,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wellington Nascimento - @wellingtonjhn
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
+1. Gus Ballard - @sillero
 1. Guilherme Jardim - @oguiljardim
 1. Renato Oliveira - @_renatooliveira
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
