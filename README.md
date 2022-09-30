@@ -200,6 +200,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Thiago Fernando - @thiiagofernando
 1. Thiago Paiva - @paiva_thiago
 1. Thiago Sciotta - @thiagosciotta
+1. Thiago Siqueira @SectOfWruzudar
 1. Tiago Juliano Ferreira
 1. Tiago da Silva - @t_gregorios
 1. Tiago de Freitas Lima - @ljtfreitas
