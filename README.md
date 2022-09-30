@@ -31,7 +31,6 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **Assinam:**
 
-
 1. Adriano Azevedo
 1. Allan Silva
 1. Antonio Arles @aarles
@@ -93,3 +92,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Matheus Grandi - @grandimatheus
 1. Diego Neves - @diegoaceneves
+1. Guilherme Magno - @guilherme.mprata
