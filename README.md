@@ -40,7 +40,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Bruno Rocha - @rochacbruno
 1. Coletivo InspirAda na Computação
 1. Cristóferson Bueno
-1. Daniel Lemos - @DanielOCL 
+1. Daniel Lemos - @DanielOCL
 1. Daniel Romero - @infoslack
 1. Eduardo Cuducos
 1. Fabrício Kneipp - @kneipp
@@ -64,7 +64,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Lidiane Monteiro
 1. Luander De Faria - @LuanderFarias
 1. Lucas Teixeira - @lucasjct
-1. Luis Fernando Azevedo Dourado 
+1. Luis Fernando Azevedo Dourado
 1. Luiz Eamnoel da Silva
 1. Marcio Hiroyuki Miyamoto  - @decepciloper
 1. Mário Menezes
@@ -77,7 +77,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Raul Jansma Paes - @Rauljansma
 1. Renan Tomazini
 1. Rodrigo Miranda - @eguadorodrigo
-1. Silas Dias 
+1. Silas Dias
 1. Shirleide da Silva
 1. Tainá Rocha - @Tai_Rocha_
 1. Thiago Aires - @ThiAires2
@@ -86,6 +86,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
+1. Diogo Murta - @diogomurta
 1. Mário Sérgio Oliveira de Queiroz
 1. Ademir Ferreira - @ademirferreira
 1. Guilmour Rossi - @guilmour
