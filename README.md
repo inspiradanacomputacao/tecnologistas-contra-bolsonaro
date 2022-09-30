@@ -59,6 +59,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Igor Oliveira - @igorolivei
 1. Ítalo Epifânio - @itepifanio
 1. Janio Melo
+1. Jean Carlos Izepon - @izepon
 1. Jeferson Fernando - @badtux_
 1. João Paulo Marquesini - @joaopmarquesini
 1. João Freire - @p0ssuidao
