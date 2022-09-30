@@ -86,6 +86,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
+1. Cristina Mantovani - @crismantovani
 1. Everton Silva
 1. Diogo Murta - @diogomurta
 1. Mário Sérgio Oliveira de Queiroz
