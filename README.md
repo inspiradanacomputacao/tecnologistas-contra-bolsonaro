@@ -196,6 +196,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wellington Nascimento - @wellingtonjhn
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
+1. Gabriel Galdino - @gabogaldino
 1. Thallys de Freitas - @thallysfs
 1. Cauê Baasch de Souza - @cauebs
 1. Gus Ballard - @sillero
