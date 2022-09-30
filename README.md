@@ -115,3 +115,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. João Rafael Freitas Bonilha - @rafaelbonilha
 1. Guilherme Magno - @guilherme.mprata
 1. Marco Antonio Martins Junior - @somatorio
+1. Halley Teixeira Rios = @HalleyRios
