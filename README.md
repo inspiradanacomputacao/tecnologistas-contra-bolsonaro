@@ -31,7 +31,6 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **Assinam:**
 
-
 1. Adriano Azevedo
 1. Allan Silva
 1. Antonio Arles @aarles
@@ -39,25 +38,33 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Blabos de Blebe @blabos
 1. Bruna de Oliveira - @heibabu
 1. Bruno Rocha - @rochacbruno
+1. Christiano Anderson - @dump
+1. Caio Delgado - @caiodelgadonew
 1. Coletivo InspirAda na Computação
 1. Cristóferson Bueno
-1. Daniel Lemos - @DanielOCL 
+1. Daniel Lemos - @DanielOCL
 1. Daniel Romero - @infoslack
+1. Diego Costa - @diegocosta
 1. Eduardo Cuducos
 1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
 1. Felipe Ribeiro - @feliper_dev
+1. Filipe Fernandes - @ocefpaf
 1. Felix Carvalho - @felixoakz
 1. Flávia Viana
 1. Francílio Araújo
 1. Gabriel Lechenco - @Lechenco
+1. Geraldo Massahud 
 1. Giovanni Bassi - @giovannibassi
 1. Gustavo Carvalho
+1. Gustavo Henrique Ribeiro Dias - @guribeiro
 1. Igor Oliveira - @igorolivei
 1. Ítalo Epifânio - @itepifanio
 1. Janio Melo
+1. Jean Carlos Izepon - @izepon
 1. Jeferson Fernando - @badtux_
 1. João Paulo Marquesini - @joaopmarquesini
+1. João Freire - @p0ssuidao
 1. Júnior Moreira de Souza
 1. Kauan Amarante
 1. Kevin Oliveira - @kvnol
@@ -65,32 +72,69 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Lidiane Monteiro
 1. Luander De Faria - @LuanderFarias
 1. Lucas Teixeira - @lucasjct
-1. Luis Fernando Azevedo Dourado 
+1. Luis Fernando Azevedo Dourado
 1. Luiz Eamnoel da Silva
+1. Luiz Gustavo Ferraz Aoqui - @lgfa29
 1. Marcio Hiroyuki Miyamoto  - @decepciloper
 1. Mário Menezes
 1. Mateus Caruccio - @caruccio
+1. Mateus de Castro Domingos - @mateuscdomingos
 1. Odilon Junior - @odilhao
 1. Pietro Del Corona - @pidelcorona
 1. Rafael Gomes (a.k.a Gomex)
 1. Raira Oliveira - @risoilustra
 1. Ramon Silveira Borges - @Kaysarion_
 1. Raul Jansma Paes - @Rauljansma
+1. Reinaldo Coelho (a.k.a Foca) - @reinaldocoelho
 1. Renan Tomazini
 1. Rodrigo Miranda - @eguadorodrigo
-1. Silas Dias 
+1. Silas Dias
 1. Shirleide da Silva
 1. Tainá Rocha - @Tai_Rocha_
 1. Thiago Aires - @ThiAires2
 1. Thiago Paiva - @paiva_thiago
+1. Thiago Sciotta - @thiagosciotta
 1. Téo Calvo  - @TeoCalvo
+1. Vinicius Teixeira - @vinicius0026
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
+1. Reinaldo Antonio Camargo Rauch - @reinaldorauch
+1. João Antônio Andrade Satana - @joaoandrades
+1. Breno Araripe - @meuamigobira
+1. Cristina Mantovani - @crismantovani
+1. Everton Silva
+1. Diogo Murta - @diogomurta
+1. Mário Sérgio Oliveira de Queiroz
+1. Ademir Ferreira - @ademirferreira
+1. Guilmour Rossi - @guilmour
+1. Evelyn Schmitz - @ikiba
 1. William Lino Oliveira - @willonil
 1. Guilherme Jardim - @oguiljardim
 1. Renato Oliveira - @_renatooliveira
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Matheus Grandi - @grandimatheus
+1. João Pedro Limão - @johnazedo
 1. Diego Neves - @diegoaceneves
 1. Paulo Gonçalves - @paulorgoncalves
+1. Cristiano Santos de Oliveira - @cristianounix
+1. Guilherme Victor - @guivictorr
+1. André P. Santos - @ztzandre
+1. Ivanelson Nunes - @ivanelsonnunes
+1. Weverton Silveira Lima
+1. Felipe de Morais(FeliPython) - @felipedemorais_
+1. AfroPython - @AfroPython
+1. Leandro Ramos - @leandroembu
+1. José Maria Jr
+1. Otávio Cartaxo - @_ocartaxo
+1. Lucas Ryan - @Calivem_
+1. Ricardo Katz - @rikatz
+1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
+1. Otavio Carneiro - @ocarneiro (ooocarneiro no twitter)
+1. André "decko" de Brito - @decko
+1. Janil Garcia - @janilcgarcia
+1. Augusto Custódio - @augustocustodio - @gutocodes (tt)
+1. João Rafael Freitas Bonilha - @rafaelbonilha
+1. Guilherme Magno - @guilherme.mprata
+1. Marco Antonio Martins Junior - @somatorio
+1. Marcelo Palladino - @mfpalladino
