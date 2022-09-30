@@ -48,6 +48,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
 1. Felipe Ribeiro - @feliper_dev
+1. Felix Carvalho - @felixoakz
 1. Flávia Viana
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Francílio Araújo
@@ -72,6 +73,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Marcio Hiroyuki Miyamoto  - @decepciloper
 1. Mário Menezes
 1. Matheus Grandi - @grandimatheus
+1. Mateus Caruccio - @caruccio
 1. Odilon Junior - @odilhao
 1. Pietro Del Corona - @pidelcorona
 1. Rafael Gomes (a.k.a Gomex)
@@ -84,8 +86,16 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Shirleide da Silva
 1. Silas Dias 
 1. Tainá Rocha - @Tai_Rocha_
+1. Thiago Aires - @ThiAires2
+1. Thiago Paiva - @paiva_thiago
 1. Téo Calvo  - @TeoCalvo
 1. Thiago Aires - @ThiAires2
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
+1. William Lino Oliveira - @willonil
+1. Guilherme Jardim - @oguiljardim
+1. Renato Oliveira - @_renatooliveira
+1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
+1. Matheus Grandi - @grandimatheus
+1. Diego Neves - @diegoaceneves
