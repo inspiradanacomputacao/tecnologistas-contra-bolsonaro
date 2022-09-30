@@ -31,29 +31,65 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **Assinam:**
 
-- Coletivo InspirAda na Computação
-- Lidiane Monteiro
-- Shirleide da Silva
-- Eduardo Cuducos
-- Gustavo Carvalho
-- Flávia Viana
-- Bruno Rocha - @rochacbruno
-- Rafael Gomes (a.k.a Gomex)
-- Kevin Oliveira - @kvnol
-- Kauan Amarante
-- Cristóferson Bueno
-- Felipe Carvalho
-- Bolsonitro - @bolsonitro_btc
-- Téo Calvo  - @TeoCalvo
-- Odilon Junior - @odilhao
-- Francílio Araújo
-- Luiz Eamnoel da Silva
-- Jeferson Fernando - @badtux_
-- Lucas Teixeira - @lucasjct
-- Daniel Romero - @infoslack
-- Janio Melo
-- Gabriel Lechenco - @Lechenco
-- Luis Fernando Azevedo Dourado
-- Thiago Aires - @ThiAires2
-- Wellington Nascimento - @wellingtonjhn
-- Pietro Del Corona - @pidelcorona
+1. Adriano Azevedo
+1. Allan Silva
+1. Antonio Arles @aarles
+1. Angela De Jesus
+1. Blabos de Blebe @blabos
+1. Bruna de Oliveira - @heibabu
+1. Bruno Rocha - @rochacbruno
+1. Coletivo InspirAda na Computação
+1. Cristóferson Bueno
+1. Daniel Lemos - @DanielOCL 
+1. Daniel Romero - @infoslack
+1. Eduardo Cuducos
+1. Fabrício Kneipp - @kneipp
+1. Felipe Carvalho
+1. Felipe Ribeiro - @feliper_dev
+1. Felix Carvalho - @felixoakz
+1. Flávia Viana
+1. Francílio Araújo
+1. Gabriel Lechenco - @Lechenco
+1. Giovanni Bassi - @giovannibassi
+1. Gustavo Carvalho
+1. Igor Oliveira - @igorolivei
+1. Ítalo Epifânio - @itepifanio
+1. Janio Melo
+1. Jeferson Fernando - @badtux_
+1. João Paulo Marquesini - @joaopmarquesini
+1. Júnior Moreira de Souza
+1. Kauan Amarante
+1. Kevin Oliveira - @kvnol
+1. Leo Cavalcante - @leocavalcante
+1. Lidiane Monteiro
+1. Luander De Faria - @LuanderFarias
+1. Lucas Teixeira - @lucasjct
+1. Luis Fernando Azevedo Dourado 
+1. Luiz Eamnoel da Silva
+1. Marcio Hiroyuki Miyamoto  - @decepciloper
+1. Mário Menezes
+1. Mateus Caruccio - @caruccio
+1. Odilon Junior - @odilhao
+1. Pietro Del Corona - @pidelcorona
+1. Rafael Gomes (a.k.a Gomex)
+1. Raira Oliveira - @risoilustra
+1. Ramon Silveira Borges - @Kaysarion_
+1. Raul Jansma Paes - @Rauljansma
+1. Renan Tomazini
+1. Rodrigo Miranda - @eguadorodrigo
+1. Silas Dias 
+1. Shirleide da Silva
+1. Tainá Rocha - @Tai_Rocha_
+1. Thiago Aires - @ThiAires2
+1. Thiago Paiva - @paiva_thiago
+1. Téo Calvo  - @TeoCalvo
+1. Volnei Freitas Vasconcelos Filho - @volneifilho
+1. Wandgleyson Lira de Figueredo @gleysonlf
+1. Wellington Nascimento - @wellingtonjhn
+1. William Lino Oliveira - @willonil
+1. Guilherme Jardim - @oguiljardim
+1. Renato Oliveira - @_renatooliveira
+1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
+1. Matheus Grandi - @grandimatheus
+1. Diego Neves - @diegoaceneves
+1. Guilherme Magno - @guilherme.mprata
