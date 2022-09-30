@@ -94,3 +94,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Diego Neves - @diegoaceneves
 1. João Rafael Freitas Bonilha - @rafaelbonilha
 1. Guilherme Magno - @guilherme.mprata
+1. Tatiana Vitorello - @sunknines
