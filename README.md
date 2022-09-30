@@ -67,6 +67,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Lucas Teixeira - @lucasjct
 1. Luis Fernando Azevedo Dourado 
 1. Luiz Eamnoel da Silva
+1. Luiz Gustavo Ferraz Aoqui - @lgfa29
 1. Marcio Hiroyuki Miyamoto  - @decepciloper
 1. Mário Menezes
 1. Mateus Caruccio - @caruccio
