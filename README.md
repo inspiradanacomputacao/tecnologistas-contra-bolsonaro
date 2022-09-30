@@ -76,6 +76,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Rodrigo Miranda - @eguadorodrigo
 1. Silas Dias 
 1. Shirleide da Silva
+1. Tainá Rocha - @Tai_Rocha_
 1. Thiago Aires - @ThiAires2
 1. Téo Calvo  - @TeoCalvo
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
