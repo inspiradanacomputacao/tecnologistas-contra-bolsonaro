@@ -76,6 +76,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Marcio Hiroyuki Miyamoto  - @decepciloper
 1. Mário Menezes
 1. Mateus Caruccio - @caruccio
+1. Mateus de Castro Domingos - @mateuscdomingos
 1. Odilon Junior - @odilhao
 1. Pietro Del Corona - @pidelcorona
 1. Rafael Gomes (a.k.a Gomex)
@@ -114,6 +115,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. João Pedro Limão - @johnazedo
 1. Diego Neves - @diegoaceneves
 1. Otávio Cartaxo - @_ocartaxo
+1. Lucas Ryan - @Calivem_
 1. Ricardo Katz - @rikatz
 1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
 1. Otavio Carneiro - @ocarneiro (ooocarneiro no twitter)
