@@ -73,6 +73,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Giovanni Bassi - @giovannibassi
 1. Guilherme Jardim - @oguiljardim
 1. Guilherme Magno - @guilherme.mprata
+1. Guilherme Maluf Balzana - @guimaluf
 1. Guilherme Victor - @guivictorr
 1. Guilmour Rossi - @guilmour
 1. Gustavo Carvalho
