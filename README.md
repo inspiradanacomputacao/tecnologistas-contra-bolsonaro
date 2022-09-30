@@ -205,6 +205,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Tiago de Freitas Lima - @ljtfreitas
 1. Vicente Eduardo Ribeiro Marçal - @riverfount
 1. Victor Emanuel Perticarrari Osório - @vepo
+1. Victor Franzonatto - @victorfranz
 1. Victor Ricardo - @vicrlda
 1. Victor Wildner - @vcwild
 1. Vinicius Teixeira - @vinicius0026
