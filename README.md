@@ -213,3 +213,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. William Lino Oliveira - @willonil
 1. Bruno Gonçalves de Barros - @bbwithpointers
 1. Marco Vinicius Soares Dall'Alba @vinisdl
+1. Raysa Dutra - @hi_hi_ray
