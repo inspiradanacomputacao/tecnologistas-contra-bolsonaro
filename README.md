@@ -114,6 +114,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Matheus Grandi - @grandimatheus
 1. João Pedro Limão - @johnazedo
 1. Diego Neves - @diegoaceneves
+1. Otávio Cartaxo - @_ocartaxo
 1. Lucas Ryan - @Calivem_
 1. Ricardo Katz - @rikatz
 1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
