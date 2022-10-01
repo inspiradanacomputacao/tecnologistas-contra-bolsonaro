@@ -124,6 +124,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. João Antônio Cardoso - @joaoantoniocardoso
 1. João Brito - @juniorjbn
 1. João Ciocca - @JohnnyCiocca
+1. João Felipe Pimentel
 1. João Freire - @p0ssuidao
 1. João Henrique Luciano - @JoaoHL
 1. João Paulo Marquesini - @joaopmarquesini
