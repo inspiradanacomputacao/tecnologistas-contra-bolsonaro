@@ -61,6 +61,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Christian Corrales - @christcorrales
 1. Christiano Anderson
 1. Christiano Anderson - @dump
+1. Cleiver Carvalhal Carneiro
 1. Cleyson Lima - @cleysonph
 1. Coletivo InspirAda na Computação
 1. Cristhiano Cunha - @cristhianocunha
