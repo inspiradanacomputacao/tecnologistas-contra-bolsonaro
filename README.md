@@ -92,6 +92,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Flávia Viana
 1. Flávio Filipe - @flaviofilipe - @flaviofilipex (tt)
 1. Francílio Araújo
+1. Franzwagner Ternus - @strund3r
 1. Gabriel Barbosa - @ollemg
 1. Gabriel Galdino - @gabogaldino
 1. Gabriel Lechenco - @Lechenco
