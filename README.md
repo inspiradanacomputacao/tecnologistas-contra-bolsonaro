@@ -194,41 +194,42 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Reinaldo Antonio Camargo Rauch - @reinaldorauch
 1. Reinaldo Coelho (a.k.a Foca) - @reinaldocoelho
 1. Renan Tomazini
-1. Renato Oliveira - @_renatooliveira
-1. Ricardo Katz - @rikatz
-1. Rivaldo Oliveira - @RiivaldoJR
-1. Rodrigo Miranda - @eguadorodrigo
-1. Rodrigo Nascentes - @ronascentes
-1. Samuel Estrella - @techrastabr
-1. Sergio Giraldo
-1. Shirleide da Silva
-1. Silas Dias
-1. Silas Fernandes - @ssilasfernandess
-1. Tainá Rocha - @Tai_Rocha_
-1. Tarso Queiroz
-1. Tatiana Vitorello - @sunknines
-1. Téo Calvo - @TeoCalvo
-1. Thallys de Freitas - @thallysfs
-1. Thiago Aires - @ThiAires2
-1. Thiago Curvelo dos Anjos - @tcurvelo
-1. Thiago Fernando - @thiiagofernando
-1. Thiago Paiva - @paiva_thiago
-1. Thiago Sciotta - @thiagosciotta
-1. Thiago Siqueira @SectOfWruzudar
-1. Tiago Juliano Ferreira
-1. Tiago da Silva - @t_gregorios
-1. Tiago de Freitas Lima - @ljtfreitas
-1. Vicente Eduardo Ribeiro Marçal - @riverfount
-1. Victor Emanuel Perticarrari Osório - @vepo
-1. Victor Franzonatto - @victorfranz
-1. Victor Ricardo - @vicrlda
-1. Victor Wildner - @vcwild
-1. Vinicius Teixeira - @vinicius0026
-1. Vitor Xisto - @vxisto
-1. Volnei Freitas Vasconcelos Filho - @volneifilho
-1. Walaff Jhonatha Gomes Fernandes - @lncitador
-1. Wandgleyson Lira de Figueredo @gleysonlf
-1. Wellington Nascimento - @wellingtonjhn
-1. Wendell Borges - @perlporter
-1. Weverton Silveira Lima
-1. William Lino Oliveira - @willonil
+2. Renan Altendorf Bernordi - @altendorfme
+3. Renato Oliveira - @_renatooliveira
+4. Ricardo Katz - @rikatz
+5. Rivaldo Oliveira - @RiivaldoJR
+6. Rodrigo Miranda - @eguadorodrigo
+7. Rodrigo Nascentes - @ronascentes
+8. Samuel Estrella - @techrastabr
+9. Sergio Giraldo
+10. Shirleide da Silva
+11. Silas Dias
+12. Silas Fernandes - @ssilasfernandess
+13. Tainá Rocha - @Tai_Rocha_
+14. Tarso Queiroz
+15. Tatiana Vitorello - @sunknines
+16. Téo Calvo - @TeoCalvo
+17. Thallys de Freitas - @thallysfs
+18. Thiago Aires - @ThiAires2
+19. Thiago Curvelo dos Anjos - @tcurvelo
+20. Thiago Fernando - @thiiagofernando
+21. Thiago Paiva - @paiva_thiago
+22. Thiago Sciotta - @thiagosciotta
+23. Thiago Siqueira @SectOfWruzudar
+24. Tiago Juliano Ferreira
+25. Tiago da Silva - @t_gregorios
+26. Tiago de Freitas Lima - @ljtfreitas
+27. Vicente Eduardo Ribeiro Marçal - @riverfount
+28. Victor Emanuel Perticarrari Osório - @vepo
+29. Victor Franzonatto - @victorfranz
+30. Victor Ricardo - @vicrlda
+31. Victor Wildner - @vcwild
+32. Vinicius Teixeira - @vinicius0026
+33. Vitor Xisto - @vxisto
+34. Volnei Freitas Vasconcelos Filho - @volneifilho
+35. Walaff Jhonatha Gomes Fernandes - @lncitador
+36. Wandgleyson Lira de Figueredo @gleysonlf
+37. Wellington Nascimento - @wellingtonjhn
+38. Wendell Borges - @perlporter
+39. Weverton Silveira Lima
+40. William Lino Oliveira - @willonil
