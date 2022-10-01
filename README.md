@@ -72,7 +72,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Daniel Albino - @danielalbino
 1. Daniel Lemos - @DanielOCL
 1. Daniel Romero - @infoslack
-1. Diego Costa - @diegocosta
+1. Diego Costa - @diegocoxta
 1. Diego Neves - @diegoaceneves
 1. Diogo Murta - @diogomurta
 1. Douglas Urbano - @douglasurbano
