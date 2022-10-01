@@ -222,3 +222,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wendell Borges - @perlporter
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
+1. Thiago Curvelo dos Anjos - @tcurvelo
