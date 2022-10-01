@@ -58,7 +58,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Carlos Barros - @ocarlosbarros
 1. Carol Santos - @carolsvntos
 1. Cauê Baasch de Souza - @cauebs
-1. Celso Bess - @celsobessa
+1. Celso Bessa - @celsobessa
 1. Christian Corrales - @christcorrales
 1. Christiano Anderson
 1. Christiano Anderson - @dump
