@@ -148,6 +148,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Luander de Faria - @LuanderFarias
 1. Lucas Andrade
 1. Lucas Bento - @Lucas_bob16
+1. Lucas Lago - @lagolucas
 1. Lucas Lattari - @1iversodiscreto
 1. Lucas Ryan - @Calivem_
 1. Lucas Teixeira - @lucasjct
@@ -197,6 +198,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Renato Oliveira - @_renatooliveira
 1. Ricardo Katz - @rikatz
 1. Rivaldo Oliveira - @RiivaldoJR
+1. Rodolfo Viana
 1. Rodrigo Miranda - @eguadorodrigo
 1. Rodrigo Nascentes - @ronascentes
 1. Samuel Estrella - @techrastabr
@@ -210,6 +212,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Téo Calvo - @TeoCalvo
 1. Thallys de Freitas - @thallysfs
 1. Thiago Aires - @ThiAires2
+1. Thiago Cesar Andrade - @AndradeTC86
 1. Thiago Curvelo dos Anjos - @tcurvelo
 1. Thiago Fernando - @thiiagofernando
 1. Thiago Paiva - @paiva_thiago
