@@ -49,6 +49,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Breno Araripe - @meuamigobira
 1. Bruna de Oliveira - @heibabu
 1. Bruno Gonçalves de Barros - @bbwithpointers
+1. Bruno Leonardo Gonçalves - @brunolmfg
 1. Bruno Lopes Alcantara Batista - @brunolopesjn
 1. Bruno Rocha - @rochacbruno
 1. Caio Delgado - @caiodelgadonew
