@@ -54,6 +54,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Bruno Lopes Alcantara Batista - @brunolopesjn
 1. Bruno Rocha - @rochacbruno
 1. Caio Delgado - @caiodelgadonew
+1. Camilo Cunha de Azevedo - @ocam_l
 1. Capi Etheriel - @barraponto
 1. Carlos Barros - @ocarlosbarros
 1. Carol Santos - @carolsvntos
