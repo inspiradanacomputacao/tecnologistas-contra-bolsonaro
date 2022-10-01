@@ -196,6 +196,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Raysa Dutra - @hi_hi_ray
 1. Reinaldo Antonio Camargo Rauch - @reinaldorauch
 1. Reinaldo Coelho (a.k.a Foca) - @reinaldocoelho
+1. Renan Altendorf Bernordi - @altendorfme
 1. Renan Tomazini
 1. Renato Oliveira - @_renatooliveira
 1. Ricardo Katz - @rikatz
@@ -228,6 +229,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Victor Franzonatto - @victorfranz
 1. Victor Ricardo - @vicrlda
 1. Victor Wildner - @vcwild
+1. Vinicius Campanha Sartori
 1. Vinicius Teixeira - @vinicius0026
 1. Vitor Xisto - @vxisto
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
