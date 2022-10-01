@@ -144,6 +144,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Lucas Lattari - @1iversodiscreto
 1. Lucas Ryan - @Calivem_
 1. Lucas Teixeira - @lucasjct
+1. Luciano Ratamero - @lucianoratamero
 1. Lud Galvão
 1. Luis Fernando Azevedo Dourado
 1. Luiz Eamnoel da Silva
