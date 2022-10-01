@@ -179,6 +179,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Paulo Bortolotti - @phbpx
 1. Paulo Gonçalves - @paulorgoncalves
 1. Pedro Henrique Lopes - @Pherlsz
+1. Pedro Lugon - @lugonpedro
 1. Pedro Rogério - @pinceladasdaweb
 1. Pietro Del Corona - @pidelcorona
 1. Rafael Gomes (a.k.a Gomex)
