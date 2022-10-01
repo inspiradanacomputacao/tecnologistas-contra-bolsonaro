@@ -181,6 +181,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Pietro Del Corona - @pidelcorona
 1. Rafael Gomes (a.k.a Gomex)
 1. Rafael Hayashi - @hayashirafa
+1. Rafael Kato - @rafakato
 1. Raira Oliveira - @risoilustra
 1. Ramon Silveira Borges - @Kaysarion_
 1. Raphael Rodrigues Nogueira
