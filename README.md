@@ -40,6 +40,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Allan Silva
 1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
 1. Ana Cecília Vieira - @cecivieira
+1. Ana Maria Silva (@anamariasilva / @anatechdev)
 1. André "decko" de Brito - @decko
 1. André Euclides Alves - @alvesa
 1. André P. Santos - @ztzandre
@@ -56,6 +57,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Bruno Leonardo Gonçalves - @brunolmfg
 1. Bruno Lopes Alcantara Batista - @brunolopesjn
 1. Bruno Rocha - @rochacbruno
+1. Bruno Umbelino
 1. Caio Delgado - @caiodelgadonew
 1. Camilo Cunha de Azevedo - @ocam_l
 1. Capi Etheriel - @barraponto
@@ -84,6 +86,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Eduardo Cuducos
 1. Elias Soares - @eliassoares
 1. Eliel França
+1. Elon Lima Bezerra
 1. Evelyn Schmitz - @ikiba
 1. Everton Silva
 1. Fabiano Luciano dos Santos
@@ -175,6 +178,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Marcio Hiroyuki Miyamoto - @decepciloper
 1. Marco Antonio Martins Junior - @somatorio
 1. Marco Vinicius Soares Dall'Alba @vinisdl
+1. Maria Fernanda Souza
 1. Mário Menezes
 1. Mário Sérgio Oliveira de Queiroz
 1. Mateus Caruccio - @caruccio
@@ -195,6 +199,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Pedro Lugon - @lugonpedro
 1. Pedro Rogério - @pinceladasdaweb
 1. Pietro Del Corona - @pidelcorona
+1. Rafael Barros Pires - @rafaelbpires
 1. Rafael Gomes (a.k.a Gomex)
 1. Rafael Hayashi - @hayashirafa
 1. Rafael Kato - @rafakato
