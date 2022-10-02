@@ -1,4 +1,5 @@
-# Tecnologistas contra Bolsonaro      [[Quero assinar]](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro/wiki)
+# Tecnologistas contra Bolsonaro [[Quero assinar]](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro/wiki)
+
 **Manifesto de Pessoas de Tecnologia contra Bolsonaro**
 
 Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inovação, abaixo assinados, vimos ao público em geral e às comunidades nos posicionarmos sobre a eleição presidencial de 2 de outubro de 2022 afirmando nosso desejo e compromisso em derrotar Bolsonaro para que o povo brasileiro tenha melhores condições sociais, econômicas e políticas de forjar um Brasil que:
@@ -39,6 +40,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Aline Freitas - @alinefr
 1. Allan Silva
 1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
+1. Ana Maria Silva (@anamariasilva / @anatechdev)
 1. André "decko" de Brito - @decko
 1. André Euclides Alves - @alvesa
 1. André P. Santos - @ztzandre
@@ -86,7 +88,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Felipe Carvalho
 1. Felipe Cecagno - @fcecagno
 1. Felipe Ribeiro - @feliper_dev
-1. Felipe de Morais(FeliPython) - @felipedemorais_
+1. Felipe de Morais(FeliPython) - @felipedemorais\_
 1. Felix Carvalho - @felixoakz
 1. Filipe Fernandes - @ocefpaf
 1. Flávia Cardoso - @fmcard
@@ -124,7 +126,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Janil Garcia - @janilcgarcia
 1. Janio Melo
 1. Jean Carlos Izepon - @izepon
-1. Jeferson Fernando - @badtux_
+1. Jeferson Fernando - @badtux\_
 1. Jéssica Souza - @whatever_jess
 1. João Antônio Andrade Satana - @joaoandrades
 1. João Antônio Cardoso - @joaoantoniocardoso
@@ -152,7 +154,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Lucas Bento - @Lucas_bob16
 1. Lucas Lago - @lagolucas
 1. Lucas Lattari - @1iversodiscreto
-1. Lucas Ryan - @Calivem_
+1. Lucas Ryan - @Calivem\_
 1. Lucas Teixeira - @lucasjct
 1. Luciano Ratamero - @lucianoratamero
 1. Luciano Santa Brígida - @lucianosb
@@ -178,7 +180,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Nina Kitsu - @SelphieAhri
 1. Odilon Junior - @odilhao
 1. Otavio Carneiro - @ocarneiro
-1. Otávio Cartaxo - @_ocartaxo
+1. Otávio Cartaxo - @\_ocartaxo
 1. Otávio Cordeiro - @otaviocc
 1. Paulo Bortolotti - @phbpx
 1. Paulo Gonçalves - @paulorgoncalves
@@ -190,7 +192,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Rafael Hayashi - @hayashirafa
 1. Rafael Kato - @rafakato
 1. Raira Oliveira - @risoilustra
-1. Ramon Silveira Borges - @Kaysarion_
+1. Ramon Silveira Borges - @Kaysarion\_
 1. Raphael Rodrigues Nogueira
 1. Raul Jansma Paes - @Rauljansma
 1. Raysa Dutra - @hi_hi_ray
@@ -198,7 +200,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Reinaldo Coelho (a.k.a Foca) - @reinaldocoelho
 1. Renan Altendorf Bernordi - @altendorfme
 1. Renan Tomazini
-1. Renato Oliveira - @_renatooliveira
+1. Renato Oliveira - @\_renatooliveira
 1. Ricardo Katz - @rikatz
 1. Rivaldo Oliveira - @RiivaldoJR
 1. Rodolfo Viana
@@ -209,7 +211,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Shirleide da Silva
 1. Silas Dias
 1. Silas Fernandes - @ssilasfernandess
-1. Tainá Rocha - @Tai_Rocha_
+1. Tainá Rocha - @Tai*Rocha*
 1. Tarso Queiroz
 1. Tatiana Vitorello - @sunknines
 1. Téo Calvo - @TeoCalvo
