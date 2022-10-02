@@ -44,6 +44,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. André Euclides Alves - @alvesa
 1. André P. Santos - @ztzandre
 1. Angela De Jesus
+1. Anne Kelly Ribeiro - @annekelly13
 1. Antonio Arles @aarles
 1. Augusto Custódio - @augustocustodio - @gutocodes (tt)
 1. Blabos de Blebe @blabos
@@ -242,4 +243,3 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wendell Borges - @perlporter
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
-1. Anne Kelly Ribeiro - @annekelly13
