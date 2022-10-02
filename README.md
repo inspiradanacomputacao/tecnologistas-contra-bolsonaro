@@ -179,6 +179,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Matheus Grandi - @grandimatheus
 1. Matheus Prado - @mathsort
 1. Melissa Mendonça - @melissawm
+1. Moises Cardozo - @gobila
 1. Nina Kitsu - @SelphieAhri
 1. Odilon Junior - @odilhao
 1. Otavio Carneiro - @ocarneiro
