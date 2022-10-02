@@ -187,6 +187,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Otavio Carneiro - @ocarneiro
 1. Otávio Cartaxo - @_ocartaxo
 1. Otávio Cordeiro - @otaviocc
+1. Pablo Bion da Silva - @pablobion
 1. Paulo Bortolotti - @phbpx
 1. Paulo Gonçalves - @paulorgoncalves
 1. Pedro Henrique Lopes - @Pherlsz
