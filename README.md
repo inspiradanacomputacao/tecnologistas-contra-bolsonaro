@@ -51,6 +51,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Breno Araripe - @meuamigobira
 1. Bruna de Oliveira - @heibabu
 1. Bruno Ciconelle
+1. Bruno Geronimo - [@BrunoGeronimo](https://twitter.com/BrunoGeronimo)
 1. Bruno Gonçalves de Barros - @bbwithpointers
 1. Bruno Leonardo Gonçalves - @brunolmfg
 1. Bruno Lopes Alcantara Batista - @brunolopesjn
@@ -58,6 +59,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Caio Delgado - @caiodelgadonew
 1. Camilo Cunha de Azevedo - @ocam_l
 1. Capi Etheriel - @barraponto
+1. Carine Neris - @carineneris
 1. Carlos Barros - @ocarlosbarros
 1. Carol Santos - @carolsvntos
 1. Cauê Baasch de Souza - @cauebs
@@ -84,6 +86,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Eliel França
 1. Evelyn Schmitz - @ikiba
 1. Everton Silva
+1. Fabiano Luciano dos Santos
 1. Fabiano Santos Florentino - @fabianosanflor
 1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
@@ -184,6 +187,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Otavio Carneiro - @ocarneiro
 1. Otávio Cartaxo - @_ocartaxo
 1. Otávio Cordeiro - @otaviocc
+1. Pablo Bion da Silva - @pablobion
 1. Paulo Bortolotti - @phbpx
 1. Paulo Gonçalves - @paulorgoncalves
 1. Pedro Henrique Lopes - @Pherlsz
@@ -243,4 +247,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wendell Borges - @perlporter
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
-2. Pablo Bion da Silva - @pablobion
+1. Walter Ferreira - @walter_chuno
