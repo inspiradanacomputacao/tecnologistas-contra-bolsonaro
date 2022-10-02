@@ -36,6 +36,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Adriano Azevedo
 1. Adriano dos Santos - @santosbio
 1. AfroPython - @AfroPython
+1. Aline Bastos - @AlineBastos - @SouAlineBastos (Twitter)
 1. Aline Freitas - @alinefr
 1. Allan Silva
 1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
