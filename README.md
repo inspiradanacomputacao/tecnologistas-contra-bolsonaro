@@ -84,6 +84,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Eduardo Cuducos
 1. Elias Soares - @eliassoares
 1. Eliel França
+1. Elon Lima Bezerra
 1. Evelyn Schmitz - @ikiba
 1. Everton Silva
 1. Fabiano Santos Florentino - @fabianosanflor
