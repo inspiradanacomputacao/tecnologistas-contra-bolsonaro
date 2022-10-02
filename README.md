@@ -190,6 +190,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Pedro Lugon - @lugonpedro
 1. Pedro Rogério - @pinceladasdaweb
 1. Pietro Del Corona - @pidelcorona
+1. Rafael Barros Pires - @rafaelbpires
 1. Rafael Gomes (a.k.a Gomex)
 1. Rafael Hayashi - @hayashirafa
 1. Rafael Kato - @rafakato
