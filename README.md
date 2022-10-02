@@ -126,6 +126,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Iago Bruno - @iagobruno
 1. Igor Oliveira - @igorolivei
 1. Ike Banto - @ikebanto
+1. Isabella Ramos @isabellazramos
 1. Ítalo Epifânio - @itepifanio
 1. Ivan Maia - @ivanmaia
 1. Ivanelson Nunes - @ivanelsonnunes
