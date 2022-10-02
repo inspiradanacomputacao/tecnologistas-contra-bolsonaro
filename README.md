@@ -84,6 +84,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Eliel França
 1. Evelyn Schmitz - @ikiba
 1. Everton Silva
+1. Fabiano Luciano dos Santos
 1. Fabiano Santos Florentino - @fabianosanflor
 1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
