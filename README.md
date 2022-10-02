@@ -39,6 +39,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Aline Freitas - @alinefr
 1. Allan Silva
 1. Álvaro Luiz Andrade - @AlvaroBrasilia - @alvaro_brasilia (tt)
+1. Ana Cecília Vieira - @cecivieira
 1. André "decko" de Brito - @decko
 1. André Euclides Alves - @alvesa
 1. André P. Santos - @ztzandre
