@@ -218,6 +218,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Tatiana Vitorello - @sunknines
 1. Téo Calvo - @TeoCalvo
 1. Thallys de Freitas - @thallysfs
+1. Thayana Corrêa Mamoré - @thauska
 1. Thiago Aires - @ThiAires2
 1. Thiago Cesar Andrade - @AndradeTC86
 1. Thiago Curvelo dos Anjos - @tcurvelo
