@@ -174,6 +174,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Marcio Hiroyuki Miyamoto - @decepciloper
 1. Marco Antonio Martins Junior - @somatorio
 1. Marco Vinicius Soares Dall'Alba @vinisdl
+1. Maria Fernanda Souza
 1. Mário Menezes
 1. Mário Sérgio Oliveira de Queiroz
 1. Mateus Caruccio - @caruccio
