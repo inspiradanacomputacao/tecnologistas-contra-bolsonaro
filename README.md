@@ -88,6 +88,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Eduardo Cuducos
 1. Elias Soares - @eliassoares
 1. Eliel França
+1. Ellison Leão - @ellisonleao
 1. Elon Lima Bezerra
 1. Evelyn Schmitz - @ikiba
 1. Everton Silva
@@ -159,6 +160,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Leandro Ramos - @leandroembu
 1. Leo Cavalcante - @leocavalcante
 1. Leo Val de Casas
+1. Leonardo Vieira Neto
 1. Lidiane Monteiro
 1. Luander de Faria - @LuanderFarias
 1. Lucas Andrade
@@ -172,6 +174,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Luciano Santa Brígida - @lucianosb
 1. Lud Galvão
 1. Luis Fernando Azevedo Dourado
+1. Luiz Brito - @obritoluiz
 1. Luiz Eamnoel da Silva
 1. Luiz Felipe Amadeu
 1. Luiz Felipe Amadeu - @luiiz_amadeeu (ig)
@@ -189,6 +192,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Mateus de Castro Domingos - @mateuscdomingos
 1. Matheus Grandi - @grandimatheus
 1. Matheus Prado - @mathsort
+1. Matheus Ricelly Pinto - @fsenaweb
 1. Melissa Mendonça - @melissawm
 1. Moises Cardozo - @gobila
 1. Nina Kitsu - @SelphieAhri
@@ -199,6 +203,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Pablo Bion da Silva - @pablobion
 1. Paulo Bortolotti - @phbpx
 1. Paulo Gonçalves - @paulorgoncalves
+1. Pedro Fernandes - @la_ursa_
 1. Pedro Henrique Lopes - @Pherlsz
 1. Pedro Lugon - @lugonpedro
 1. Pedro Rogério - @pinceladasdaweb
@@ -237,27 +242,29 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Thiago Cesar Andrade - @AndradeTC86
 1. Thiago Curvelo dos Anjos - @tcurvelo
 1. Thiago Fernando - @thiiagofernando
+1. Thiago Machado - @dublado
 1. Thiago Paiva - @paiva_thiago
 1. Thiago Sciotta - @thiagosciotta
 1. Thiago Siqueira @SectOfWruzudar
+1. Thyago Pereira da Silva
 1. Tiago Juliano Ferreira
 1. Tiago da Silva - @t_gregorios
 1. Tiago de Freitas Lima - @ljtfreitas
 1. Vicente Eduardo Ribeiro Marçal - @riverfount
 1. Victor Emanuel Perticarrari Osório - @vepo
 1. Victor Franzonatto - @victorfranz
+1. Victor Maristane - @victormaristane
 1. Victor Ricardo - @vicrlda
 1. Victor Wildner - @vcwild
 1. Vinicius Campanha Sartori
+1. Vinicius Noma - @ViniciusNoma
 1. Vinicius Teixeira - @vinicius0026
 1. Vitor Xisto - @vxisto
 1. Volnei Freitas Vasconcelos Filho - @volneifilho
 1. Walaff Jhonatha Gomes Fernandes - @lncitador
+1. Walter Ferreira - @walter_chuno
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
 1. Wendell Borges - @perlporter
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
-1. Walter Ferreira - @walter_chuno
-1. Matheus Ricelly Pinto - @fsenaweb
-1. Ellison Leão - @ellisonleao
