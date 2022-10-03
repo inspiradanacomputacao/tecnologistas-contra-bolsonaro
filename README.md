@@ -48,6 +48,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Angela De Jesus
 1. Anne Kelly Ribeiro - @annekelly13
 1. Antonio Arles @aarles
+1. Arianne Macena - Anne
 1. Augusto Custódio - @augustocustodio - @gutocodes (tt)
 1. Blabos de Blebe @blabos
 1. Breno Araripe - @meuamigobira
