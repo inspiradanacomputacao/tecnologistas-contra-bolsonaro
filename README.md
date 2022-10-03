@@ -154,6 +154,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Júnior Moreira de Souza
 1. Kauan Amarante
 1. Kevin Oliveira - @kvnol
+1. Larisse Rodrigues - @helloLari
 1. Leandro Ramos - @leandroembu
 1. Leo Cavalcante - @leocavalcante
 1. Leo Val de Casas
@@ -257,4 +258,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
 1. Walter Ferreira - @walter_chuno
-Larisse Rodrigues - @helloLari
+1. Matheus Ricelly Pinto - @fsenaweb
