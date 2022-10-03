@@ -260,3 +260,4 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. William Lino Oliveira - @willonil
 1. Walter Ferreira - @walter_chuno
 1. Matheus Ricelly Pinto - @fsenaweb
+1. Ellison Leão - @ellisonleao
