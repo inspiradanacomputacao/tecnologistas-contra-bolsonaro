@@ -152,120 +152,121 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. João Rafael Freitas Bonilha - @rafaelbonilha
 1. José Maria Jr
 1. Josiel Santos - @JosielSantosDev
-1. Juliana Barros Lima - @tiidadavena
-1. Juliana Trevine - @trevineju
-1. Júnior Moreira de Souza
-1. Kauan Amarante
-1. Kevin Oliveira - @kvnol
-1. Larisse Rodrigues - @helloLari
-1. Leandro Ramos - @leandroembu
-1. Leo Cavalcante - @leocavalcante
-1. Leo Val de Casas
-1. Leonardo Vieira Neto
-1. Lidiane Monteiro
-1. Luander de Faria - @LuanderFarias
-1. Lucas Andrade
-1. Lucas Bento - @Lucas_bob16
-1. Lucas Lago - @lagolucas
-1. Lucas Lattari - @1iversodiscreto
-1. Lucas Ryan - @Calivem_
-1. Lucas Teixeira - @lucasjct
-1. Luciano Lima
-1. Luciano Ratamero - @lucianoratamero
-1. Luciano Santa Brígida - @lucianosb
-1. Lud Galvão
-1. Luis Fernando Azevedo Dourado
-1. Luiz Brito - @obritoluiz
-1. Luiz Eamnoel da Silva
-1. Luiz Felipe Amadeu
-1. Luiz Felipe Amadeu - @luiiz_amadeeu (ig)
-1. Luiz Gustavo Ferraz Aoqui - @lgfa29
-1. Luiz Irber - @luizirber
-1. Marcelo Drudi Miranda - @drudimm
-1. Marcelo Palladino - @mfpalladino
-1. Marcio Hiroyuki Miyamoto - @decepciloper
-1. Marco Antonio Martins Junior - @somatorio
-1. Marco Vinicius Soares Dall'Alba @vinisdl
-1. Maria Fernanda Souza
-1. Mário Menezes
-1. Mário Sérgio Oliveira de Queiroz
-1. Mateus Caruccio - @caruccio
-1. Mateus de Castro Domingos - @mateuscdomingos
-1. Matheus Grandi - @grandimatheus
-1. Matheus Prado - @mathsort
-1. Matheus Ricelly Pinto - @fsenaweb
-1. Melissa Mendonça - @melissawm
-1. Moises Cardozo - @gobila
-1. Nina Kitsu - @SelphieAhri
-1. Odilon Junior - @odilhao
-1. Otavio Carneiro - @ocarneiro
-1. Otávio Cartaxo - @_ocartaxo
-1. Otávio Cordeiro - @otaviocc
-1. Pablo Bion da Silva - @pablobion
-1. Paulo Bortolotti - @phbpx
-1. Paulo Gonçalves - @paulorgoncalves
-1. Pedro Fernandes - @la_ursa_
-1. Pedro Henrique Lopes - @Pherlsz
-1. Pedro Lugon - @lugonpedro
-1. Pedro Rogério - @pinceladasdaweb
-1. Pietro Del Corona - @pidelcorona
-1. Rafael Barros Pires - @rafaelbpires
-1. Rafael Gomes (a.k.a Gomex)
-1. Rafael Hayashi - @hayashirafa
-1. Rafael Kato - @rafakato
-1. Raira Oliveira - @risoilustra
-1. Ramon Silveira Borges - @Kaysarion_
-1. Raphael Rodrigues Nogueira
-1. Raul Jansma Paes - @Rauljansma
-1. Raysa Dutra - @hi_hi_ray
-1. Reinaldo Antonio Camargo Rauch - @reinaldorauch
-1. Reinaldo Coelho (a.k.a Foca) - @reinaldocoelho
-1. Renan Altendorf Bernordi - @altendorfme
-1. Renan Tomazini
-1. Renato Oliveira - @_renatooliveira
-1. Ricardo Katz - @rikatz
-1. Rivaldo Oliveira - @RiivaldoJR
-1. Rodolfo Viana
-1. Rodrigo Miranda - @eguadorodrigo
-1. Rodrigo Nascentes - @ronascentes
-1. Samuel Estrella - @techrastabr
-1. Sergio Giraldo
-1. Shirleide da Silva
-1. Silas Dias
-1. Silas Fernandes - @ssilasfernandess
-1. Tainá Rocha - @Tai_Rocha_
-1. Tarso Queiroz
-1. Tatiana Vitorello - @sunknines
-1. Téo Calvo - @TeoCalvo
-1. Thallys de Freitas - @thallysfs
-1. Thayana Corrêa Mamoré - @thauska
-1. Thiago Aires - @ThiAires2
-1. Thiago Cesar Andrade - @AndradeTC86
-1. Thiago Curvelo dos Anjos - @tcurvelo
-1. Thiago Fernando - @thiiagofernando
-1. Thiago Machado - @dublado
-1. Thiago Paiva - @paiva_thiago
-1. Thiago Sciotta - @thiagosciotta
-1. Thiago Siqueira @SectOfWruzudar
-1. Thyago Pereira da Silva
-1. Tiago Juliano Ferreira
-1. Tiago da Silva - @t_gregorios
-1. Tiago de Freitas Lima - @ljtfreitas
-1. Vicente Eduardo Ribeiro Marçal - @riverfount
-1. Victor Emanuel Perticarrari Osório - @vepo
-1. Victor Franzonatto - @victorfranz
-1. Victor Maristane - @victormaristane
-1. Victor Ricardo - @vicrlda
-1. Victor Wildner - @vcwild
-1. Vinicius Campanha Sartori
-1. Vinicius Noma - @ViniciusNoma
-1. Vinicius Teixeira - @vinicius0026
-1. Vitor Xisto - @vxisto
-1. Volnei Freitas Vasconcelos Filho - @volneifilho
-1. Walaff Jhonatha Gomes Fernandes - @lncitador
-1. Walter Ferreira - @walter_chuno
-1. Wandgleyson Lira de Figueredo @gleysonlf
-1. Wellington Nascimento - @wellingtonjhn
-1. Wendell Borges - @perlporter
-1. Weverton Silveira Lima
-1. William Lino Oliveira - @willonil
+2. Juliana Barbosa - @julianaabs
+3. Juliana Barros Lima - @tiidadavena
+4. Juliana Trevine - @trevineju
+5. Júnior Moreira de Souza
+6. Kauan Amarante
+7. Kevin Oliveira - @kvnol
+8. Larisse Rodrigues - @helloLari
+9. Leandro Ramos - @leandroembu
+10. Leo Cavalcante - @leocavalcante
+11. Leo Val de Casas
+12. Leonardo Vieira Neto
+13. Lidiane Monteiro
+14. Luander de Faria - @LuanderFarias
+15. Lucas Andrade
+16. Lucas Bento - @Lucas_bob16
+17. Lucas Lago - @lagolucas
+18. Lucas Lattari - @1iversodiscreto
+19. Lucas Ryan - @Calivem_
+20. Lucas Teixeira - @lucasjct
+21. Luciano Lima
+22. Luciano Ratamero - @lucianoratamero
+23. Luciano Santa Brígida - @lucianosb
+24. Lud Galvão
+25. Luis Fernando Azevedo Dourado
+26. Luiz Brito - @obritoluiz
+27. Luiz Eamnoel da Silva
+28. Luiz Felipe Amadeu
+29. Luiz Felipe Amadeu - @luiiz_amadeeu (ig)
+30. Luiz Gustavo Ferraz Aoqui - @lgfa29
+31. Luiz Irber - @luizirber
+32. Marcelo Drudi Miranda - @drudimm
+33. Marcelo Palladino - @mfpalladino
+34. Marcio Hiroyuki Miyamoto - @decepciloper
+35. Marco Antonio Martins Junior - @somatorio
+36. Marco Vinicius Soares Dall'Alba @vinisdl
+37. Maria Fernanda Souza
+38. Mário Menezes
+39. Mário Sérgio Oliveira de Queiroz
+40. Mateus Caruccio - @caruccio
+41. Mateus de Castro Domingos - @mateuscdomingos
+42. Matheus Grandi - @grandimatheus
+43. Matheus Prado - @mathsort
+44. Matheus Ricelly Pinto - @fsenaweb
+45. Melissa Mendonça - @melissawm
+46. Moises Cardozo - @gobila
+47. Nina Kitsu - @SelphieAhri
+48. Odilon Junior - @odilhao
+49. Otavio Carneiro - @ocarneiro
+50. Otávio Cartaxo - @_ocartaxo
+51. Otávio Cordeiro - @otaviocc
+52. Pablo Bion da Silva - @pablobion
+53. Paulo Bortolotti - @phbpx
+54. Paulo Gonçalves - @paulorgoncalves
+55. Pedro Fernandes - @la_ursa_
+56. Pedro Henrique Lopes - @Pherlsz
+57. Pedro Lugon - @lugonpedro
+58. Pedro Rogério - @pinceladasdaweb
+59. Pietro Del Corona - @pidelcorona
+60. Rafael Barros Pires - @rafaelbpires
+61. Rafael Gomes (a.k.a Gomex)
+62. Rafael Hayashi - @hayashirafa
+63. Rafael Kato - @rafakato
+64. Raira Oliveira - @risoilustra
+65. Ramon Silveira Borges - @Kaysarion_
+66. Raphael Rodrigues Nogueira
+67. Raul Jansma Paes - @Rauljansma
+68. Raysa Dutra - @hi_hi_ray
+69. Reinaldo Antonio Camargo Rauch - @reinaldorauch
+70. Reinaldo Coelho (a.k.a Foca) - @reinaldocoelho
+71. Renan Altendorf Bernordi - @altendorfme
+72. Renan Tomazini
+73. Renato Oliveira - @_renatooliveira
+74. Ricardo Katz - @rikatz
+75. Rivaldo Oliveira - @RiivaldoJR
+76. Rodolfo Viana
+77. Rodrigo Miranda - @eguadorodrigo
+78. Rodrigo Nascentes - @ronascentes
+79. Samuel Estrella - @techrastabr
+80. Sergio Giraldo
+81. Shirleide da Silva
+82. Silas Dias
+83. Silas Fernandes - @ssilasfernandess
+84. Tainá Rocha - @Tai_Rocha_
+85. Tarso Queiroz
+86. Tatiana Vitorello - @sunknines
+87. Téo Calvo - @TeoCalvo
+88. Thallys de Freitas - @thallysfs
+89. Thayana Corrêa Mamoré - @thauska
+90. Thiago Aires - @ThiAires2
+91. Thiago Cesar Andrade - @AndradeTC86
+92. Thiago Curvelo dos Anjos - @tcurvelo
+93. Thiago Fernando - @thiiagofernando
+94. Thiago Machado - @dublado
+95. Thiago Paiva - @paiva_thiago
+96. Thiago Sciotta - @thiagosciotta
+97. Thiago Siqueira @SectOfWruzudar
+98. Thyago Pereira da Silva
+99. Tiago Juliano Ferreira
+100. Tiago da Silva - @t_gregorios
+101. Tiago de Freitas Lima - @ljtfreitas
+102. Vicente Eduardo Ribeiro Marçal - @riverfount
+103. Victor Emanuel Perticarrari Osório - @vepo
+104. Victor Franzonatto - @victorfranz
+105. Victor Maristane - @victormaristane
+106. Victor Ricardo - @vicrlda
+107. Victor Wildner - @vcwild
+108. Vinicius Campanha Sartori
+109. Vinicius Noma - @ViniciusNoma
+110. Vinicius Teixeira - @vinicius0026
+111. Vitor Xisto - @vxisto
+112. Volnei Freitas Vasconcelos Filho - @volneifilho
+113. Walaff Jhonatha Gomes Fernandes - @lncitador
+114. Walter Ferreira - @walter_chuno
+115. Wandgleyson Lira de Figueredo @gleysonlf
+116. Wellington Nascimento - @wellingtonjhn
+117. Wendell Borges - @perlporter
+118. Weverton Silveira Lima
+119. William Lino Oliveira - @willonil
