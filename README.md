@@ -107,6 +107,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Francílio Araújo
 1. Franzwagner Ternus - @strund3r
 1. Gabriel Barbosa - @ollemg
+1. Gabriel Batista - @gabrielbatista-art
 1. Gabriel Dantas - @gabrielnsd
 1. Gabriel Galdino - @gabogaldino
 1. Gabriel Lechenco - @Lechenco
