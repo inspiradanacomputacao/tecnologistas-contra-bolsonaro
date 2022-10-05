@@ -140,6 +140,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Jean Carlos Izepon - @izepon
 1. Jeferson Fernando - @badtux_
 1. Jéssica Souza - @whatever_jess
+1. Jéssica Lopes - @iamdivaloper
 1. João Antônio Andrade Satana - @joaoandrades
 1. João Antônio Cardoso - @joaoantoniocardoso
 1. João Brito - @juniorjbn
