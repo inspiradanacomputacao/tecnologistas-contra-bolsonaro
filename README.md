@@ -129,6 +129,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Henrique Machado Broseghini - @BrosHenrique
 1. Iago Bruno - @iagobruno
 1. Igor Oliveira - @igorolivei
+1. Igor Simões - @iigorsimoes
 1. Ike Banto - @ikebanto
 1. Isabella Ramos @isabellazramos
 1. Ítalo Epifânio - @itepifanio
