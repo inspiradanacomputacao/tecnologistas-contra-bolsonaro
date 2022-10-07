@@ -66,6 +66,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Carine Neris - @carineneris
 1. Carlos Barros - @ocarlosbarros
 1. Carol Santos - @carolsvntos
+1. Carolina Soares - [@mariacarolinass](https://github.com/MariaCarolinass/)
 1. Cauê Baasch de Souza - @cauebs
 1. Celso Bessa - @celsobessa
 1. Christian Corrales - @christcorrales
