@@ -134,6 +134,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Ítalo Epifânio - @itepifanio
 1. Ivan Maia - @ivanmaia
 1. Ivanelson Nunes - @ivanelsonnunes
+1. Jackson Osvaldo - @jacksonosvaldo.l
 1. Janaina Costa
 1. Janil Garcia - @janilcgarcia
 1. Janio Melo
