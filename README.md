@@ -101,6 +101,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Felipe Ribeiro - @feliper_dev
 1. Felipe de Morais(FeliPython) - @felipedemorais_
 1. Felix Carvalho - @felixoakz
+1. Fernando Pimenta - @fcpimenta12
 1. Filipe Fernandes - @ocefpaf
 1. Flávia Cardoso - @fmcard
 1. Flávia Viana
