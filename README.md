@@ -19,11 +19,11 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 
 **8)** Promova a equidade e valorização salarial, independente de gênero, raça, orientação sexual e deficiência;
 
-**9)** Reduza a jornada de trabalho para 6h diárias, dando à classe trabalhadora mais qualidade de vida, acesso a cultura/lazer, convivência familiar e social;
+**9)** Reduza a jornada de trabalho para 6h diárias, dando à classe trabalhadora mais qualidade de vida, acesso à cultura/lazer, convivência familiar e social;
 
-**10)** Fortaleça as relações e reconhecimento de pessoas de tecnologia enquanto parte da classe trabalhadora, para que possam se organizar e conquistar para todos um setor menos desigual, com mais direitos, cultura não tóxica e mais inclusiva para sociedade brasileira.
+**10)** Fortaleça as relações e reconhecimento de pessoas de tecnologia enquanto parte da classe trabalhadora, para poderem se organizar e conquistar para todos um setor menos desigual, com mais direitos, cultura não tóxica e mais inclusiva para sociedade brasileira.
 
-**11)** Invista em projetos de iniciativa pública para formação e contratação que garanta a inclusão e permanência de grupos sub-representados (mulheres, pessoas pretas, PcD, LGBTQIA+, indígenas) na área de Tecnologia, Ciência e Inovação, tornando a produção de tecnologia, distribuição de renda e combate as desigualdes de forma mais igualitária e diversa;
+**11)** Invista em projetos de iniciativa pública para formação e contratação que garanta a inclusão e permanência de grupos sub-representados (mulheres, pessoas pretas, PcD, LGBTQIA+, indígenas) na área de Tecnologia, Ciência e Inovação, tornando a produção de tecnologia, distribuição de renda e combate as desigualdades forma mais igualitária e diversa;
 
 **12)** Se esforce pelo fim da violência e brutalidade policial que mata inocentes nas favelas, comunidades e bairros populares;
 
