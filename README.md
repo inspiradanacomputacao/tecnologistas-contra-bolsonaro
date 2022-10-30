@@ -157,6 +157,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Juliana Barros Lima - @tiidadavena
 1. Juliana Trevine - @trevineju
 1. Júnior Moreira de Souza
+1. Kaline Vidal - @nyrkln
 1. Kauan Amarante
 1. Kevin Oliveira - @kvnol
 1. Larisse Rodrigues - @helloLari
