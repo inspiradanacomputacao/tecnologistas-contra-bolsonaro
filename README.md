@@ -210,6 +210,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Pablo Bion da Silva - @pablobion
 1. Paulo Bortolotti - @phbpx
 1. Paulo Gonçalves - @paulorgoncalves
+1. Paulo Siqueira 
 1. Pedro Fernandes - @la_ursa_
 1. Pedro Henrique Lopes - @Pherlsz
 1. Pedro Lugon - @lugonpedro
