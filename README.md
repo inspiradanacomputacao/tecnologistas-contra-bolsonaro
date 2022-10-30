@@ -153,6 +153,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. João Pedro Limão - @johnazedo
 1. João Rafael Freitas Bonilha - @rafaelbonilha
 1. José Maria Jr
+1. José Teles Maciel
 1. Josiel Santos - @JosielSantosDev
 1. Juliana Barros Lima - @tiidadavena
 1. Juliana Trevine - @trevineju
