@@ -276,6 +276,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
 1. Wendell Borges - @perlporter
+1. Weslley de Campos - @weslley543
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
 
