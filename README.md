@@ -47,6 +47,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. André P. Santos - @ztzandre
 1. Andressa Lima Ferreira - @AndressaLF
 1. Angela De Jesus
+1. Angelo Lages 
 1. Anne Kelly Ribeiro - @annekelly13
 1. Antonio Arles @aarles
 1. Anicely Santos @anicelysantos
