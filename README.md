@@ -83,6 +83,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Cristina Mantovani - @crismantovani
 1. Cristóferson Bueno
 1. Daniel Albino - @danielalbino
+1. Daniel Carvalho - @ddevdan
 1. Daniel Lemos - @DanielOCL
 1. Daniel Romero - @infoslack
 1. Diego Costa - @diegocoxta
