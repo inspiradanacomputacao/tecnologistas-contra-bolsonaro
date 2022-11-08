@@ -173,6 +173,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Leo Cavalcante - @leocavalcante
 1. Leo Val de Casas
 1. Leonardo Vieira Neto
+1. Leticia - @levxyca
 1. Lidiane Monteiro
 1. Luander de Faria - @LuanderFarias
 1. Lucas Andrade
