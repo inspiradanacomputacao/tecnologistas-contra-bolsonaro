@@ -228,6 +228,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Raira Oliveira - @risoilustra
 1. Ramon Silveira Borges - @Kaysarion_
 1. Raphael Rodrigues Nogueira
+1. Raul Castro - @raulc27
 1. Raul Jansma Paes - @Rauljansma
 1. Raysa Dutra - @hi_hi_ray
 1. Reinaldo Antonio Camargo Rauch - @reinaldorauch
