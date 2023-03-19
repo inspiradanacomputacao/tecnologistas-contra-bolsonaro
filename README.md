@@ -131,6 +131,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Gus Ballard - @sillero
 1. Gustavo Carvalho
 1. Gustavo Henrique Ribeiro Dias - @guribeiro
+1. Gustavo Oliveira da Silva [@Red__Algorithm](https://twitter.com/Red__Algorithm)
 1. Halley Teixeira Rios - @HalleyRios
 1. Henrique Machado Broseghini - @BrosHenrique
 1. Iago Bruno - @iagobruno
