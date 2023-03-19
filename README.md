@@ -102,6 +102,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Fabrício Kneipp - @kneipp
 1. Felipe Carvalho
 1. Felipe Cecagno - @fcecagno
+1. Felipe Fuerback - @Fuerback
 1. Felipe Ribeiro - @feliper_dev
 1. Felipe de Morais(FeliPython) - @felipedemorais_
 1. Felix Carvalho - @felixoakz
