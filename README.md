@@ -121,6 +121,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Getúlio Vinícius Teixeira da Silva @getuliovinits
 1. Giovani Leite - @queleabraco
 1. Giovanni Bassi - @giovannibassi
+1. Giulia Campos de Oliveira - @giulia.camposs
 1. Gizele Veiga - gizaa_veiga
 1. Gregory Canto - @gregorycanto
 1. Guilherme Jardim - @oguiljardim
