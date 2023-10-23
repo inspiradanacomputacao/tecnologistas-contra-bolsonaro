@@ -67,6 +67,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Capi Etheriel - @barraponto
 1. Carine Neris - @carineneris
 1. Carlos Barros - @ocarlosbarros
+1. Carlos Eduardo Silva - @kadu 
 1. Carol Santos - @carolsvntos
 1. Cauê Baasch de Souza - @cauebs
 1. Celso Bessa - @celsobessa
