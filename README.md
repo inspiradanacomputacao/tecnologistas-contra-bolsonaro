@@ -47,6 +47,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. André P. Santos - @ztzandre
 1. Andressa Lima Ferreira - @AndressaLF
 1. Angela De Jesus
+1. Angelo Lages 
 1. Anne Kelly Ribeiro - @annekelly13
 1. Antonio Arles @aarles
 1. Anicely Santos @anicelysantos
@@ -66,6 +67,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Camilo Cunha de Azevedo - @ocam_l
 1. Capi Etheriel - @barraponto
 1. Carine Neris - @carineneris
+1. Carla Soares
 1. Carlos Barros - @ocarlosbarros
 1. Carlos Eduardo Silva - @kadu 
 1. Carol Santos - @carolsvntos
@@ -91,6 +93,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Eduardo Cuducos
 1. Elias Soares - @eliassoares
 1. Eliel França
+1. Elis Lages - @ElisLages
 1. Ellison Leão - @ellisonleao
 1. Elon Lima Bezerra
 1. Evelyn Schmitz - @ikiba
@@ -164,6 +167,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Júnior Moreira de Souza
 1. Kaline Vidal - @nyrkln
 1. Kauan Amarante
+1. Kaweneg Silva
 1. Kevin Oliveira - @kvnol
 1. Larisse Rodrigues - @helloLari
 1. Leandro Ramos - @leandroembu
@@ -246,6 +250,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Tarso Queiroz
 1. Tatiana Vitorello - @sunknines
 1. Téo Calvo - @TeoCalvo
+1. Thais Sousa
 1. Thallys de Freitas - @thallysfs
 1. Thayana Corrêa Mamoré - @thauska
 1. Thiago Aires - @ThiAires2
@@ -276,6 +281,7 @@ Nós, pessoas envolvidas ou interessadas na área de Tecnologia, Ciência e Inov
 1. Wandgleyson Lira de Figueredo @gleysonlf
 1. Wellington Nascimento - @wellingtonjhn
 1. Wendell Borges - @perlporter
+1. Weslley de Campos - @weslley543
 1. Weverton Silveira Lima
 1. William Lino Oliveira - @willonil
 
